@@ -3,7 +3,11 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>営業先マップ</title>
+    <title>Prospect Atlas — 営業先スクリーニング</title>
+    <meta name="description" content="リードを地図上で可視化し、スコア・ステータス・業界で多軸スクリーニングできる営業先管理ツール。" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Noto+Sans+JP:wght@400;500;700;800&display=swap" rel="stylesheet" />
     <link
       rel="stylesheet"
       href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
@@ -14,102 +18,159 @@
   </head>
   <body>
     <div class="app-shell">
-      <aside class="sidebar">
-        <div class="hero-card">
-          <p class="eyebrow">Prospecting Map</p>
-          <h1>営業先を業界ごとに一気に可視化</h1>
-          <p class="hero-copy">
-            重飲食、軽飲食、不動産など15カテゴリの会社を、オープンソース地図上でまとめて管理できます。
-          </p>
-          <div class="hero-actions">
-            <button id="fit-all-button" class="primary-button">全ピンを表示</button>
-            <button id="load-sample-button" class="ghost-button">サンプル再読込</button>
+      <header class="topbar">
+        <div class="topbar-brand">
+          <div class="brand-mark" aria-hidden="true">
+            <svg viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <path d="M16 3C9.92 3 5 7.92 5 14c0 7.5 11 15 11 15s11-7.5 11-15c0-6.08-4.92-11-11-11Z" fill="url(#brand-grad)"/>
+              <circle cx="16" cy="14" r="4.2" fill="#fff"/>
+              <defs>
+                <linearGradient id="brand-grad" x1="5" y1="3" x2="27" y2="29" gradientUnits="userSpaceOnUse">
+                  <stop offset="0" stop-color="#FF6B5B"/>
+                  <stop offset="1" stop-color="#7C3AED"/>
+                </linearGradient>
+              </defs>
+            </svg>
+          </div>
+          <div class="brand-text">
+            <p class="brand-eyebrow">PROSPECT ATLAS</p>
+            <h1>営業先スクリーニングマップ</h1>
           </div>
         </div>
 
-        <section class="panel">
-          <div class="panel-heading">
-            <h2>サマリー</h2>
-          </div>
-          <div class="stats-grid">
-            <div class="stat-card">
-              <span class="stat-label">会社数</span>
-              <strong id="company-count">0</strong>
+        <div class="topbar-stats" id="pipeline-stats">
+          <!-- pipeline funnel injected here -->
+        </div>
+
+        <div class="topbar-actions">
+          <button id="fit-all-button" class="primary-button">
+            <span class="button-icon">⊕</span>
+            全ピン表示
+          </button>
+          <button id="load-sample-button" class="ghost-button">サンプル再読込</button>
+        </div>
+      </header>
+
+      <main class="workspace">
+        <aside class="sidebar">
+          <section class="panel filter-panel">
+            <div class="panel-heading">
+              <div>
+                <p class="eyebrow">Screening</p>
+                <h2>多軸スクリーニング</h2>
+              </div>
+              <button id="reset-filters" class="text-button">リセット</button>
             </div>
-            <div class="stat-card">
-              <span class="stat-label">表示中カテゴリ</span>
-              <strong id="active-category-count">0</strong>
+
+            <div class="filter-group">
+              <label class="filter-label" for="search-input">検索</label>
+              <div class="search-wrap">
+                <span class="search-icon" aria-hidden="true">⌕</span>
+                <input
+                  id="search-input"
+                  class="search-input"
+                  type="search"
+                  placeholder="会社名・住所・業界・メモ"
+                  autocomplete="off"
+                />
+              </div>
             </div>
-            <div class="stat-card">
-              <span class="stat-label">表示中ピン</span>
-              <strong id="visible-company-count">0</strong>
+
+            <div class="filter-group">
+              <div class="filter-row">
+                <label class="filter-label">ホットスコア</label>
+                <span class="score-readout"><span id="score-min-out">0</span> 〜 <span id="score-max-out">100</span></span>
+              </div>
+              <div class="score-slider">
+                <input id="score-min" type="range" min="0" max="100" value="0" step="5" />
+                <input id="score-max" type="range" min="0" max="100" value="100" step="5" />
+                <div class="score-track" aria-hidden="true">
+                  <div class="score-fill" id="score-fill"></div>
+                </div>
+              </div>
             </div>
-          </div>
-        </section>
 
-        <section class="panel">
-          <div class="panel-heading">
-            <h2>業界フィルター</h2>
-            <button id="toggle-all-categories" class="text-button">全選択/解除</button>
-          </div>
-          <div id="category-filters" class="category-grid"></div>
-        </section>
+            <div class="filter-group">
+              <label class="filter-label">商談ステータス</label>
+              <div class="status-chips" id="status-filters"></div>
+            </div>
 
-        <section class="panel">
-          <div class="panel-heading">
-            <h2>会社検索</h2>
-          </div>
-          <input
-            id="search-input"
-            class="search-input"
-            type="search"
-            placeholder="会社名・住所・業界で検索"
-          />
-          <div id="company-list" class="company-list"></div>
-        </section>
+            <div class="filter-group">
+              <div class="filter-row">
+                <label class="filter-label">業界カテゴリ</label>
+                <button id="toggle-all-categories" class="text-button">全選択/解除</button>
+              </div>
+              <div id="category-filters" class="category-grid"></div>
+            </div>
+          </section>
 
-        <section class="panel">
-          <div class="panel-heading">
-            <h2>CSV貼り付け取込</h2>
-          </div>
-          <p class="helper-text">
-            1行目に
-            <code>name,category,address,lat,lng,phone,website,notes</code>
-            を入れて貼り付けてください。
-          </p>
-          <textarea
-            id="csv-input"
-            class="csv-input"
-            placeholder="name,category,address,lat,lng,phone,website,notes"
-          ></textarea>
-          <div class="import-actions">
-            <button id="import-csv-button" class="primary-button">CSVを読み込む</button>
-            <button id="load-template-button" class="ghost-button">テンプレート挿入</button>
-          </div>
-          <p id="import-status" class="helper-text" aria-live="polite"></p>
-        </section>
-      </aside>
+          <section class="panel list-panel">
+            <div class="panel-heading">
+              <div>
+                <p class="eyebrow">Prospects</p>
+                <h2>ターゲット一覧 <span class="list-count" id="list-count">0</span></h2>
+              </div>
+              <select id="sort-select" class="sort-select" aria-label="並び替え">
+                <option value="score-desc">スコア降順</option>
+                <option value="score-asc">スコア昇順</option>
+                <option value="name-asc">名前順</option>
+                <option value="status-asc">ステータス順</option>
+              </select>
+            </div>
+            <div id="company-list" class="company-list"></div>
+          </section>
 
-      <main class="main-content">
+          <details class="panel csv-panel">
+            <summary>
+              <span>CSVデータ取込</span>
+              <span class="caret">▾</span>
+            </summary>
+            <div class="csv-body">
+              <p class="helper-text">
+                ヘッダー: <code>name,category,address,lat,lng,phone,website,notes,score,status</code>
+                （score/status は省略可）
+              </p>
+              <textarea
+                id="csv-input"
+                class="csv-input"
+                placeholder="name,category,address,lat,lng,phone,website,notes,score,status"
+              ></textarea>
+              <div class="import-actions">
+                <button id="import-csv-button" class="primary-button compact">CSVを読み込む</button>
+                <button id="load-template-button" class="ghost-button compact">テンプレート挿入</button>
+              </div>
+              <p id="import-status" class="helper-text" aria-live="polite"></p>
+            </div>
+          </details>
+        </aside>
+
         <section class="map-panel">
           <div class="map-header">
             <div>
               <p class="eyebrow">Open Source Map</p>
               <h2>営業ターゲットマップ</h2>
             </div>
-            <div id="legend" class="legend"></div>
+            <div class="legend-wrap">
+              <div class="priority-legend">
+                <span class="priority-dot priority-hot" aria-hidden="true"></span>
+                <span>ホット</span>
+                <span class="priority-dot priority-warm" aria-hidden="true"></span>
+                <span>ウォーム</span>
+                <span class="priority-dot priority-cold" aria-hidden="true"></span>
+                <span>コールド</span>
+              </div>
+            </div>
           </div>
           <div id="map"></div>
+          <div class="legend" id="legend" aria-label="業界カテゴリ凡例"></div>
         </section>
 
-        <section class="detail-panel">
-          <div class="panel-heading">
-            <h2>会社詳細</h2>
-          </div>
+        <aside class="detail-panel">
           <div id="company-detail" class="company-detail empty-detail">
-            地図のピンか会社リストを選ぶと詳細が表示されます。
+            <div class="empty-art" aria-hidden="true">⌖</div>
+            <p>地図のピンか会社リストを選ぶと詳細が表示されます。</p>
           </div>
-        </section>
+        </aside>
       </main>
     </div>
 

@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>営業先マップ</title>
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+      integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+      crossorigin=""
+    />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <div class="app-shell">
+      <aside class="sidebar">
+        <div class="hero-card">
+          <p class="eyebrow">Prospecting Map</p>
+          <h1>営業先を業界ごとに一気に可視化</h1>
+          <p class="hero-copy">
+            重飲食、軽飲食、不動産など15カテゴリの会社を、オープンソース地図上でまとめて管理できます。
+          </p>
+          <div class="hero-actions">
+            <button id="fit-all-button" class="primary-button">全ピンを表示</button>
+            <button id="load-sample-button" class="ghost-button">サンプル再読込</button>
+          </div>
+        </div>
+
+        <section class="panel">
+          <div class="panel-heading">
+            <h2>サマリー</h2>
+          </div>
+          <div class="stats-grid">
+            <div class="stat-card">
+              <span class="stat-label">会社数</span>
+              <strong id="company-count">0</strong>
+            </div>
+            <div class="stat-card">
+              <span class="stat-label">表示中カテゴリ</span>
+              <strong id="active-category-count">0</strong>
+            </div>
+            <div class="stat-card">
+              <span class="stat-label">表示中ピン</span>
+              <strong id="visible-company-count">0</strong>
+            </div>
+          </div>
+        </section>
+
+        <section class="panel">
+          <div class="panel-heading">
+            <h2>業界フィルター</h2>
+            <button id="toggle-all-categories" class="text-button">全選択/解除</button>
+          </div>
+          <div id="category-filters" class="category-grid"></div>
+        </section>
+
+        <section class="panel">
+          <div class="panel-heading">
+            <h2>会社検索</h2>
+          </div>
+          <input
+            id="search-input"
+            class="search-input"
+            type="search"
+            placeholder="会社名・住所・業界で検索"
+          />
+          <div id="company-list" class="company-list"></div>
+        </section>
+
+        <section class="panel">
+          <div class="panel-heading">
+            <h2>CSV貼り付け取込</h2>
+          </div>
+          <p class="helper-text">
+            1行目に
+            <code>name,category,address,lat,lng,phone,website,notes</code>
+            を入れて貼り付けてください。
+          </p>
+          <textarea
+            id="csv-input"
+            class="csv-input"
+            placeholder="name,category,address,lat,lng,phone,website,notes"
+          ></textarea>
+          <div class="import-actions">
+            <button id="import-csv-button" class="primary-button">CSVを読み込む</button>
+            <button id="load-template-button" class="ghost-button">テンプレート挿入</button>
+          </div>
+          <p id="import-status" class="helper-text" aria-live="polite"></p>
+        </section>
+      </aside>
+
+      <main class="main-content">
+        <section class="map-panel">
+          <div class="map-header">
+            <div>
+              <p class="eyebrow">Open Source Map</p>
+              <h2>営業ターゲットマップ</h2>
+            </div>
+            <div id="legend" class="legend"></div>
+          </div>
+          <div id="map"></div>
+        </section>
+
+        <section class="detail-panel">
+          <div class="panel-heading">
+            <h2>会社詳細</h2>
+          </div>
+          <div id="company-detail" class="company-detail empty-detail">
+            地図のピンか会社リストを選ぶと詳細が表示されます。
+          </div>
+        </section>
+      </main>
+    </div>
+
+    <script
+      src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+      integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+      crossorigin=""
+    ></script>
+    <script src="./app.js"></script>
+  </body>
+</html>

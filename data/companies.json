@@ -1,0 +1,4548 @@
+{
+  "generated_at": "2026-04-28T15:17:30+09:00",
+  "source": "gBizINFO + 国土地理院ジオコーダー",
+  "category": "heavy-food (重飲食)",
+  "area": "東京都",
+  "keyword_set": [
+    "居酒屋",
+    "焼肉",
+    "ホルモン",
+    "中華料理",
+    "中華食堂",
+    "中華そば",
+    "ラーメン",
+    "らーめん",
+    "韓国料理",
+    "韓国家庭料理",
+    "餃子",
+    "焼鳥",
+    "焼き鳥",
+    "とんかつ",
+    "串揚げ",
+    "串焼",
+    "鉄板焼",
+    "炉端",
+    "炭火焼",
+    "ビヤホール",
+    "大衆酒場",
+    "酒場",
+    "天ぷら",
+    "天麩羅"
+  ],
+  "count": 237,
+  "companies": [
+    {
+      "id": "1010405015797",
+      "name": "一般社団法人居酒屋プロ綜研",
+      "category": "heavy-food",
+      "address": "東京都港区南青山５丁目４番３０号",
+      "lat": 35.662231,
+      "lng": 139.714432,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 1010405015797 / 該当キーワード: 居酒屋",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "居酒屋"
+      ],
+      "postal_code": "1070062",
+      "kana": "",
+      "update_date": "2022-08-24T00:00:00+09:00"
+    },
+    {
+      "id": "1010502001279",
+      "name": "有限会社居酒屋錦",
+      "category": "heavy-food",
+      "address": "東京都台東区上野６丁目１１番６号",
+      "lat": 35.710968,
+      "lng": 139.774567,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 1010502001279 / 該当キーワード: 居酒屋",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "居酒屋"
+      ],
+      "postal_code": "1100005",
+      "kana": "",
+      "update_date": "2025-05-20T00:00:00+09:00"
+    },
+    {
+      "id": "1011101048851",
+      "name": "株式会社居酒屋もり太",
+      "category": "heavy-food",
+      "address": "東京都新宿区西落合２丁目１０番５号",
+      "lat": 35.720669,
+      "lng": 139.677277,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 1011101048851 / 該当キーワード: 居酒屋",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "居酒屋"
+      ],
+      "postal_code": "1610031",
+      "kana": "",
+      "update_date": "2018-07-10T00:00:00+09:00"
+    },
+    {
+      "id": "1011202000538",
+      "name": "有限会社居酒屋みいらく",
+      "category": "heavy-food",
+      "address": "東京都中野区若宮１丁目４４番１２号",
+      "lat": 35.719707,
+      "lng": 139.647415,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 1011202000538 / 該当キーワード: 居酒屋",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "居酒屋"
+      ],
+      "postal_code": "1650033",
+      "kana": "",
+      "update_date": "2015-10-28T00:00:00+09:00"
+    },
+    {
+      "id": "2010003043794",
+      "name": "合同会社ビー和食居酒屋木場",
+      "category": "heavy-food",
+      "address": "東京都中央区日本橋兜町１７－１－７０７",
+      "lat": 35.679203,
+      "lng": 139.776138,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 2010003043794 / 該当キーワード: 居酒屋",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "居酒屋"
+      ],
+      "postal_code": "1030026",
+      "kana": "",
+      "update_date": "2024-05-22T00:00:00+09:00"
+    },
+    {
+      "id": "2011802001876",
+      "name": "有限会社割烹居酒屋島",
+      "category": "heavy-food",
+      "address": "東京都葛飾区新小岩１丁目２８番７号",
+      "lat": 35.715622,
+      "lng": 139.857773,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 2011802001876 / 該当キーワード: 居酒屋",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "居酒屋"
+      ],
+      "postal_code": "1240024",
+      "kana": "",
+      "update_date": "2015-10-28T00:00:00+09:00"
+    },
+    {
+      "id": "3010005014512",
+      "name": "一般社団法人日本居酒屋協会",
+      "category": "heavy-food",
+      "address": "東京都渋谷区代々木５丁目５７番２号",
+      "lat": 35.676929,
+      "lng": 139.69281,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 3010005014512 / 該当キーワード: 居酒屋",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "居酒屋"
+      ],
+      "postal_code": "1510053",
+      "kana": "",
+      "update_date": "2023-09-25T00:00:00+09:00"
+    },
+    {
+      "id": "3010502001277",
+      "name": "有限会社居酒屋やど八",
+      "category": "heavy-food",
+      "address": "東京都台東区入谷１丁目４番６号",
+      "lat": 35.719738,
+      "lng": 139.785324,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 3010502001277 / 該当キーワード: 居酒屋",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "居酒屋"
+      ],
+      "postal_code": "1100013",
+      "kana": "",
+      "update_date": "2021-12-02T00:00:00+09:00"
+    },
+    {
+      "id": "3011001105800",
+      "name": "上居酒屋株式会社",
+      "category": "heavy-food",
+      "address": "東京都渋谷区恵比寿４丁目２０番４号",
+      "lat": 35.643639,
+      "lng": 139.712875,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 3011001105800 / 該当キーワード: 居酒屋",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "居酒屋"
+      ],
+      "postal_code": "1500013",
+      "kana": "",
+      "update_date": "2015-10-28T00:00:00+09:00"
+    },
+    {
+      "id": "5011005001952",
+      "name": "特定非営利活動法人居酒屋甲子園",
+      "category": "heavy-food",
+      "address": "東京都文京区本郷３丁目３番１１号ＩＰＢ御茶ノ水ビル９Ｆ",
+      "lat": 35.703205,
+      "lng": 139.763062,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 5011005001952 / 該当キーワード: 居酒屋",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "居酒屋"
+      ],
+      "postal_code": "1130033",
+      "kana": "",
+      "update_date": "2021-11-19T00:00:00+09:00"
+    },
+    {
+      "id": "5012402010281",
+      "name": "有限会社居酒屋シンカワ",
+      "category": "heavy-food",
+      "address": "東京都調布市仙川町１丁目１６番地２７",
+      "lat": 35.660221,
+      "lng": 139.585709,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 5012402010281 / 該当キーワード: 居酒屋",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "居酒屋"
+      ],
+      "postal_code": "1820002",
+      "kana": "",
+      "update_date": "2015-10-30T00:00:00+09:00"
+    },
+    {
+      "id": "6010502001274",
+      "name": "有限会社居酒屋ゆう",
+      "category": "heavy-food",
+      "address": "東京都台東区上野５丁目２６番５号",
+      "lat": 35.707134,
+      "lng": 139.775024,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 6010502001274 / 該当キーワード: 居酒屋",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "居酒屋"
+      ],
+      "postal_code": "1100005",
+      "kana": "",
+      "update_date": "2015-10-28T00:00:00+09:00"
+    },
+    {
+      "id": "7010502016420",
+      "name": "有限会社居酒屋蔵",
+      "category": "heavy-food",
+      "address": "東京都台東区柳橋２丁目１５番５号",
+      "lat": 35.700047,
+      "lng": 139.78833,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 7010502016420 / 該当キーワード: 居酒屋",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "居酒屋"
+      ],
+      "postal_code": "1110052",
+      "kana": "",
+      "update_date": "2020-01-22T00:00:00+09:00"
+    },
+    {
+      "id": "8010601035741",
+      "name": "株式会社居酒屋大学",
+      "category": "heavy-food",
+      "address": "東京都江東区東陽４丁目１番２３号二光ビル２階",
+      "lat": 35.669289,
+      "lng": 139.819504,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 8010601035741 / 該当キーワード: 居酒屋",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "居酒屋"
+      ],
+      "postal_code": "1350016",
+      "kana": "",
+      "update_date": "2021-02-26T00:00:00+09:00"
+    },
+    {
+      "id": "8011801025227",
+      "name": "株式会社中華風居酒屋天蔵",
+      "category": "heavy-food",
+      "address": "東京都葛飾区東金町１丁目４１番５号",
+      "lat": 35.770672,
+      "lng": 139.871933,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 8011801025227 / 該当キーワード: 居酒屋",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "居酒屋"
+      ],
+      "postal_code": "1250041",
+      "kana": "",
+      "update_date": "2016-01-27T00:00:00+09:00"
+    },
+    {
+      "id": "9010002047022",
+      "name": "有限会社居酒屋ちょう榮",
+      "category": "heavy-food",
+      "address": "東京都千代田区神田駿河台２丁目３番５号",
+      "lat": 35.700954,
+      "lng": 139.761108,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 9010002047022 / 該当キーワード: 居酒屋",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "居酒屋"
+      ],
+      "postal_code": "1010062",
+      "kana": "",
+      "update_date": "2015-10-26T00:00:00+09:00"
+    },
+    {
+      "id": "9010502016229",
+      "name": "有限会社居酒屋みさわ",
+      "category": "heavy-food",
+      "address": "東京都台東区小島１丁目１１番１２号",
+      "lat": 35.703922,
+      "lng": 139.784439,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 9010502016229 / 該当キーワード: 居酒屋",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "居酒屋"
+      ],
+      "postal_code": "1110056",
+      "kana": "",
+      "update_date": "2022-01-27T00:00:00+09:00"
+    },
+    {
+      "id": "9010602026499",
+      "name": "有限会社居酒屋大八",
+      "category": "heavy-food",
+      "address": "東京都江東区大島４丁目９番９号",
+      "lat": 35.688618,
+      "lng": 139.8311,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 9010602026499 / 該当キーワード: 居酒屋",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "居酒屋"
+      ],
+      "postal_code": "1360072",
+      "kana": "",
+      "update_date": "2015-10-28T00:00:00+09:00"
+    },
+    {
+      "id": "9010802001153",
+      "name": "有限会社居酒屋卜伝",
+      "category": "heavy-food",
+      "address": "東京都大田区大森北６丁目２７番１号",
+      "lat": 35.578648,
+      "lng": 139.734268,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 9010802001153 / 該当キーワード: 居酒屋",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "居酒屋"
+      ],
+      "postal_code": "1430016",
+      "kana": "",
+      "update_date": "2020-02-20T00:00:00+09:00"
+    },
+    {
+      "id": "9011001115364",
+      "name": "株式会社上居酒屋",
+      "category": "heavy-food",
+      "address": "東京都渋谷区神宮前５丁目４７番８号",
+      "lat": 35.663898,
+      "lng": 139.708313,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 9011001115364 / 該当キーワード: 居酒屋",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "居酒屋"
+      ],
+      "postal_code": "1500001",
+      "kana": "",
+      "update_date": "2018-10-10T00:00:00+09:00"
+    },
+    {
+      "id": "9011201020653",
+      "name": "株式会社居酒屋かんじ",
+      "category": "heavy-food",
+      "address": "東京都中野区東中野１丁目３５番１号はりまビル",
+      "lat": 35.704136,
+      "lng": 139.685394,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 9011201020653 / 該当キーワード: 居酒屋",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "居酒屋"
+      ],
+      "postal_code": "1640003",
+      "kana": "",
+      "update_date": "2018-05-28T00:00:00+09:00"
+    },
+    {
+      "id": "9011401002170",
+      "name": "株式会社心の居酒屋オアシスオブオールド",
+      "category": "heavy-food",
+      "address": "東京都板橋区小豆沢２丁目１９番１３号",
+      "lat": 35.77647,
+      "lng": 139.695724,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 9011401002170 / 該当キーワード: 居酒屋",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "居酒屋"
+      ],
+      "postal_code": "1740051",
+      "kana": "",
+      "update_date": "2025-01-28T00:00:00+09:00"
+    },
+    {
+      "id": "9011401014620",
+      "name": "株式会社居酒屋革命",
+      "category": "heavy-food",
+      "address": "東京都板橋区大山東町５８－５",
+      "lat": 35.749088,
+      "lng": 139.702774,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 9011401014620 / 該当キーワード: 居酒屋",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "居酒屋"
+      ],
+      "postal_code": "1730014",
+      "kana": "",
+      "update_date": "2015-10-28T00:00:00+09:00"
+    },
+    {
+      "id": "1010003045791",
+      "name": "合同会社オホーツク北見焼肉のっけ",
+      "category": "heavy-food",
+      "address": "東京都中野区野方５丁目２５－３野方ビル左１階",
+      "lat": 35.71867,
+      "lng": 139.653168,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 1010003045791 / 該当キーワード: 焼肉",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "焼肉"
+      ],
+      "postal_code": "1650027",
+      "kana": "",
+      "update_date": "2025-03-04T00:00:00+09:00"
+    },
+    {
+      "id": "1010803002265",
+      "name": "合同会社鶏焼肉東京",
+      "category": "heavy-food",
+      "address": "東京都大田区大森北６丁目２６番１７号サンミニオンビル１Ｆ",
+      "lat": 35.578087,
+      "lng": 139.733963,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 1010803002265 / 該当キーワード: 焼肉",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "焼肉"
+      ],
+      "postal_code": "1430016",
+      "kana": "",
+      "update_date": "2018-11-28T00:00:00+09:00"
+    },
+    {
+      "id": "1012401017612",
+      "name": "株式会社焼肉洞",
+      "category": "heavy-food",
+      "address": "東京都武蔵野市吉祥寺本町１丁目９番９号",
+      "lat": 35.704411,
+      "lng": 139.580124,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 1012401017612 / 該当キーワード: 焼肉",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "焼肉"
+      ],
+      "postal_code": "1800004",
+      "kana": "",
+      "update_date": "2024-12-02T00:00:00+09:00"
+    },
+    {
+      "id": "2011402009031",
+      "name": "有限会社焼肉トラジ",
+      "category": "heavy-food",
+      "address": "東京都板橋区上板橋２丁目１０番６号",
+      "lat": 35.763474,
+      "lng": 139.67189,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 2011402009031 / 該当キーワード: 焼肉",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "焼肉"
+      ],
+      "postal_code": "1740076",
+      "kana": "",
+      "update_date": "2015-10-28T00:00:00+09:00"
+    },
+    {
+      "id": "2013402003055",
+      "name": "有限会社焼肉大邱",
+      "category": "heavy-food",
+      "address": "東京都多摩市愛宕４丁目８番地１２",
+      "lat": 35.62851,
+      "lng": 139.429718,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 2013402003055 / 該当キーワード: 焼肉",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "焼肉"
+      ],
+      "postal_code": "2060041",
+      "kana": "",
+      "update_date": "2015-10-30T00:00:00+09:00"
+    },
+    {
+      "id": "3010602029714",
+      "name": "有限会社焼肉フランス人",
+      "category": "heavy-food",
+      "address": "東京都墨田区江東橋２丁目１１番１４－５０１号",
+      "lat": 35.694584,
+      "lng": 139.812744,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 3010602029714 / 該当キーワード: 焼肉",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "焼肉"
+      ],
+      "postal_code": "1300022",
+      "kana": "",
+      "update_date": "2015-10-28T00:00:00+09:00"
+    },
+    {
+      "id": "3011505000984",
+      "name": "事業協同組合全国焼肉協会",
+      "category": "heavy-food",
+      "address": "東京都中央区日本橋茅場町２丁目５番６号",
+      "lat": 35.678963,
+      "lng": 139.778564,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 3011505000984 / 該当キーワード: 焼肉",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "焼肉"
+      ],
+      "postal_code": "1030025",
+      "kana": "",
+      "update_date": "2018-05-23T00:00:00+09:00"
+    },
+    {
+      "id": "4010402013066",
+      "name": "有限会社焼肉黒べこ",
+      "category": "heavy-food",
+      "address": "東京都港区芝大門１丁目６番５号",
+      "lat": 35.657967,
+      "lng": 139.754089,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 4010402013066 / 該当キーワード: 焼肉",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "焼肉"
+      ],
+      "postal_code": "1050012",
+      "kana": "",
+      "update_date": "2015-10-26T00:00:00+09:00"
+    },
+    {
+      "id": "4010402030904",
+      "name": "有限会社焼肉くにもと",
+      "category": "heavy-food",
+      "address": "東京都港区浜松町２丁目１２番２号",
+      "lat": 35.653496,
+      "lng": 139.755386,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 4010402030904 / 該当キーワード: 焼肉",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "焼肉"
+      ],
+      "postal_code": "1050013",
+      "kana": "",
+      "update_date": "2015-10-26T00:00:00+09:00"
+    },
+    {
+      "id": "4011802020924",
+      "name": "有限会社炭火焼肉白河",
+      "category": "heavy-food",
+      "address": "東京都葛飾区東金町１丁目３１番２号",
+      "lat": 35.772552,
+      "lng": 139.869217,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 4011802020924 / 該当キーワード: 焼肉, 炭火焼",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "焼肉",
+        "炭火焼"
+      ],
+      "postal_code": "1250041",
+      "kana": "",
+      "update_date": "2018-04-24T00:00:00+09:00"
+    },
+    {
+      "id": "5010002041409",
+      "name": "有限会社日本橋焼肉城",
+      "category": "heavy-food",
+      "address": "東京都中央区日本橋３丁目８番９号",
+      "lat": 35.68008,
+      "lng": 139.773819,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 5010002041409 / 該当キーワード: 焼肉",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "焼肉"
+      ],
+      "postal_code": "1030027",
+      "kana": "",
+      "update_date": "2015-10-26T00:00:00+09:00"
+    },
+    {
+      "id": "5011001127371",
+      "name": "株式会社焼肉ライク",
+      "category": "heavy-food",
+      "address": "東京都港区新橋５丁目２７番１号パークプレイス３階",
+      "lat": 35.662815,
+      "lng": 139.754791,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 5011001127371 / 該当キーワード: 焼肉",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "焼肉"
+      ],
+      "postal_code": "1050004",
+      "kana": "",
+      "update_date": "2024-11-26T00:00:00+09:00"
+    },
+    {
+      "id": "5011701015537",
+      "name": "株式会社焼肉王牛",
+      "category": "heavy-food",
+      "address": "東京都江戸川区東葛西４丁目１１番６号",
+      "lat": 35.662273,
+      "lng": 139.881775,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 5011701015537 / 該当キーワード: 焼肉",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "焼肉"
+      ],
+      "postal_code": "1340084",
+      "kana": "",
+      "update_date": "2022-01-19T00:00:00+09:00"
+    },
+    {
+      "id": "5013301038612",
+      "name": "株式会社焼肉貴仙",
+      "category": "heavy-food",
+      "address": "東京都豊島区西池袋１丁目４１番６号Ｅｓｐｅｒａｎｚａ池袋１Ｆ",
+      "lat": 35.73304,
+      "lng": 139.710358,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 5013301038612 / 該当キーワード: 焼肉",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "焼肉"
+      ],
+      "postal_code": "1710021",
+      "kana": "",
+      "update_date": "2016-04-26T00:00:00+09:00"
+    },
+    {
+      "id": "5040003001549",
+      "name": "合同会社焼肉文化サポートサービス",
+      "category": "heavy-food",
+      "address": "東京都江戸川区上一色３丁目２２番１４号２０３",
+      "lat": 35.728859,
+      "lng": 139.873123,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 5040003001549 / 該当キーワード: 焼肉",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "焼肉"
+      ],
+      "postal_code": "1330041",
+      "kana": "",
+      "update_date": "2019-05-28T00:00:00+09:00"
+    },
+    {
+      "id": "6010002028495",
+      "name": "有限会社焼肉京城",
+      "category": "heavy-food",
+      "address": "東京都千代田区神田三崎町２丁目１０番３号",
+      "lat": 35.70145,
+      "lng": 139.754074,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 6010002028495 / 該当キーワード: 焼肉",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "焼肉"
+      ],
+      "postal_code": "1010061",
+      "kana": "",
+      "update_date": "2018-01-09T00:00:00+09:00"
+    },
+    {
+      "id": "6012402015296",
+      "name": "有限会社焼肉山水",
+      "category": "heavy-food",
+      "address": "東京都国分寺市本町３丁目５番１４号寿ビル２階",
+      "lat": 35.701492,
+      "lng": 139.480103,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 6012402015296 / 該当キーワード: 焼肉",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "焼肉"
+      ],
+      "postal_code": "1850012",
+      "kana": "",
+      "update_date": "2015-10-30T00:00:00+09:00"
+    },
+    {
+      "id": "7010401193105",
+      "name": "株式会社焼肉尾﨑",
+      "category": "heavy-food",
+      "address": "東京都港区白金台３丁目１９番６号白金台ビル４階アイアルマーズ株式会社内",
+      "lat": 35.634899,
+      "lng": 139.720169,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 7010401193105 / 該当キーワード: 焼肉",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "焼肉"
+      ],
+      "postal_code": "1080071",
+      "kana": "",
+      "update_date": "2025-09-26T00:00:00+09:00"
+    },
+    {
+      "id": "7010701023416",
+      "name": "株式会社焼肉ライアン",
+      "category": "heavy-food",
+      "address": "東京都足立区西新井栄町１丁目１８番３３－６０１号",
+      "lat": 35.773991,
+      "lng": 139.788361,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 7010701023416 / 該当キーワード: 焼肉",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "焼肉"
+      ],
+      "postal_code": "1230843",
+      "kana": "",
+      "update_date": "2015-12-04T00:00:00+09:00"
+    },
+    {
+      "id": "7012402011518",
+      "name": "有限会社炭火焼肉大輝苑",
+      "category": "heavy-food",
+      "address": "東京都調布市布田３丁目１９番地８",
+      "lat": 35.647556,
+      "lng": 139.547409,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 7012402011518 / 該当キーワード: 焼肉, 炭火焼",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "焼肉",
+        "炭火焼"
+      ],
+      "postal_code": "1820024",
+      "kana": "",
+      "update_date": "2015-10-30T00:00:00+09:00"
+    },
+    {
+      "id": "8010903005087",
+      "name": "合同会社江戸前焼肉",
+      "category": "heavy-food",
+      "address": "東京都世田谷区太子堂４丁目２３番９号Ｏｒｄｉｎ三茶１ｓｔビル２階",
+      "lat": 35.643978,
+      "lng": 139.670654,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 8010903005087 / 該当キーワード: 焼肉",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "焼肉"
+      ],
+      "postal_code": "1540004",
+      "kana": "",
+      "update_date": "2019-07-16T00:00:00+09:00"
+    },
+    {
+      "id": "9010003027527",
+      "name": "焼肉なかの合同会社",
+      "category": "heavy-food",
+      "address": "東京都中央区晴海３丁目１３番１号",
+      "lat": 35.655613,
+      "lng": 139.778244,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 9010003027527 / 該当キーワード: 焼肉",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "焼肉"
+      ],
+      "postal_code": "1040053",
+      "kana": "",
+      "update_date": "2018-05-28T00:00:00+09:00"
+    },
+    {
+      "id": "9011101021280",
+      "name": "株式会社焼肉市場",
+      "category": "heavy-food",
+      "address": "東京都新宿区荒木町１９番地１９",
+      "lat": 35.691238,
+      "lng": 139.72348,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 9011101021280 / 該当キーワード: 焼肉",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "焼肉"
+      ],
+      "postal_code": "1600007",
+      "kana": "",
+      "update_date": "2026-01-27T00:00:00+09:00"
+    },
+    {
+      "id": "9011102013021",
+      "name": "有限会社焼肉天国ハチハチ",
+      "category": "heavy-food",
+      "address": "東京都新宿区市谷左内町３２番地",
+      "lat": 35.694733,
+      "lng": 139.732513,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 9011102013021 / 該当キーワード: 焼肉",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "焼肉"
+      ],
+      "postal_code": "1620846",
+      "kana": "",
+      "update_date": "2018-11-06T00:00:00+09:00"
+    },
+    {
+      "id": "9011502006062",
+      "name": "有限会社焼肉レストラン川口",
+      "category": "heavy-food",
+      "address": "東京都北区滝野川５丁目２１番６号",
+      "lat": 35.74757,
+      "lng": 139.726868,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 9011502006062 / 該当キーワード: 焼肉",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "焼肉"
+      ],
+      "postal_code": "1140023",
+      "kana": "",
+      "update_date": "2015-10-28T00:00:00+09:00"
+    },
+    {
+      "id": "1012702008921",
+      "name": "有限会社ホルモン亭",
+      "category": "heavy-food",
+      "address": "東京都西東京市柳沢３丁目１番５号",
+      "lat": 35.721725,
+      "lng": 139.557358,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 1012702008921 / 該当キーワード: ホルモン",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "ホルモン"
+      ],
+      "postal_code": "2020022",
+      "kana": "",
+      "update_date": "2018-08-01T00:00:00+09:00"
+    },
+    {
+      "id": "2011105004271",
+      "name": "特定非営利活動法人ダイオキシン・環境ホルモン対策国民会議",
+      "category": "heavy-food",
+      "address": "東京都江東区亀戸７丁目１０番１号",
+      "lat": 35.697281,
+      "lng": 139.834183,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 2011105004271 / 該当キーワード: ホルモン",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "ホルモン"
+      ],
+      "postal_code": "1360071",
+      "kana": "",
+      "update_date": "2018-09-11T00:00:00+09:00"
+    },
+    {
+      "id": "2011603003205",
+      "name": "ホルモンテスティング合同会社",
+      "category": "heavy-food",
+      "address": "東京都練馬区中村北１丁目１７－２ヴィラ・デ・ボンシャンス１０７",
+      "lat": 35.734989,
+      "lng": 139.646561,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 2011603003205 / 該当キーワード: ホルモン",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "ホルモン"
+      ],
+      "postal_code": "1760023",
+      "kana": "",
+      "update_date": "2021-02-17T00:00:00+09:00"
+    },
+    {
+      "id": "3010005034898",
+      "name": "一般社団法人女性ホルモンビューティーウェルネス協会",
+      "category": "heavy-food",
+      "address": "東京都中央区銀座１丁目２２番１１号銀座大竹ビジデンス２階",
+      "lat": 35.671829,
+      "lng": 139.770905,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 3010005034898 / 該当キーワード: ホルモン",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "ホルモン"
+      ],
+      "postal_code": "1040061",
+      "kana": "",
+      "update_date": "2022-04-20T00:00:00+09:00"
+    },
+    {
+      "id": "3012302005755",
+      "name": "株式会社ホルモンセンター栄いくどん",
+      "category": "heavy-food",
+      "address": "東京都町田市原町田６丁目１７番２号",
+      "lat": 35.54491,
+      "lng": 139.446899,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 3012302005755 / 該当キーワード: ホルモン",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "ホルモン"
+      ],
+      "postal_code": "1940013",
+      "kana": "",
+      "update_date": "2022-10-06T00:00:00+09:00"
+    },
+    {
+      "id": "4010603001191",
+      "name": "合名会社日本ホルモン研究所",
+      "category": "heavy-food",
+      "address": "東京都江東区森下町一丁目７番地",
+      "lat": 35.687515,
+      "lng": 139.797424,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 4010603001191 / 該当キーワード: ホルモン",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "ホルモン"
+      ],
+      "postal_code": "1350000",
+      "kana": "",
+      "update_date": "2015-10-28T00:00:00+09:00"
+    },
+    {
+      "id": "4020005009816",
+      "name": "一般社団法人血圧とホルモン科学協会",
+      "category": "heavy-food",
+      "address": "東京都中央区日本橋本町３丁目１０番７－１１０２号",
+      "lat": 35.689484,
+      "lng": 139.777344,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 4020005009816 / 該当キーワード: ホルモン",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "ホルモン"
+      ],
+      "postal_code": "1030023",
+      "kana": "",
+      "update_date": "2019-06-05T00:00:00+09:00"
+    },
+    {
+      "id": "5010001175793",
+      "name": "株式会社ホルモンでですけ",
+      "category": "heavy-food",
+      "address": "東京都中央区銀座３丁目３番９号",
+      "lat": 35.672779,
+      "lng": 139.765289,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 5010001175793 / 該当キーワード: ホルモン",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "ホルモン"
+      ],
+      "postal_code": "1040061",
+      "kana": "",
+      "update_date": "2025-09-09T00:00:00+09:00"
+    },
+    {
+      "id": "5010401078893",
+      "name": "ホルモン建設工業株式会社",
+      "category": "heavy-food",
+      "address": "東京都港区新橋２丁目５番６号",
+      "lat": 35.667744,
+      "lng": 139.756058,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 5010401078893 / 該当キーワード: ホルモン",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "ホルモン"
+      ],
+      "postal_code": "1050004",
+      "kana": "",
+      "update_date": "2015-10-26T00:00:00+09:00"
+    },
+    {
+      "id": "5010601041916",
+      "name": "株式会社スミヨシホルモン",
+      "category": "heavy-food",
+      "address": "東京都江東区住吉２丁目３番７号イーストＫ’ｓビル",
+      "lat": 35.688808,
+      "lng": 139.814194,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 5010601041916 / 該当キーワード: ホルモン",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "ホルモン"
+      ],
+      "postal_code": "1350002",
+      "kana": "",
+      "update_date": "2018-04-20T00:00:00+09:00"
+    },
+    {
+      "id": "5011401023220",
+      "name": "株式会社世界のホルモン工場",
+      "category": "heavy-food",
+      "address": "東京都板橋区板橋１丁目２４番１号",
+      "lat": 35.746746,
+      "lng": 139.717896,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 5011401023220 / 該当キーワード: ホルモン",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "ホルモン"
+      ],
+      "postal_code": "1730004",
+      "kana": "",
+      "update_date": "2021-03-05T00:00:00+09:00"
+    },
+    {
+      "id": "5011605002466",
+      "name": "一般社団法人女性ホルモン活性委員会",
+      "category": "heavy-food",
+      "address": "東京都練馬区関町北２丁目５番８号",
+      "lat": 35.723801,
+      "lng": 139.57312,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 5011605002466 / 該当キーワード: ホルモン",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "ホルモン"
+      ],
+      "postal_code": "1770051",
+      "kana": "",
+      "update_date": "2022-09-08T00:00:00+09:00"
+    },
+    {
+      "id": "5012301007024",
+      "name": "株式会社ホルモンセンター栄いくどん",
+      "category": "heavy-food",
+      "address": "東京都町田市原町田６丁目１７番２号",
+      "lat": 35.54491,
+      "lng": 139.446899,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 5012301007024 / 該当キーワード: ホルモン",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "ホルモン"
+      ],
+      "postal_code": "1940013",
+      "kana": "",
+      "update_date": "2016-10-18T00:00:00+09:00"
+    },
+    {
+      "id": "6011201010847",
+      "name": "ホルモン商事株式会社",
+      "category": "heavy-food",
+      "address": "東京都中野区東中野１丁目４５番７号",
+      "lat": 35.705173,
+      "lng": 139.685974,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 6011201010847 / 該当キーワード: ホルモン",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "ホルモン"
+      ],
+      "postal_code": "1640003",
+      "kana": "",
+      "update_date": "2015-10-28T00:00:00+09:00"
+    },
+    {
+      "id": "7011202006042",
+      "name": "有限会社もつ焼ホルモン",
+      "category": "heavy-food",
+      "address": "東京都中野区沼袋１丁目３８番３号",
+      "lat": 35.720306,
+      "lng": 139.663651,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 7011202006042 / 該当キーワード: ホルモン",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "ホルモン"
+      ],
+      "postal_code": "1650025",
+      "kana": "",
+      "update_date": "2018-08-09T00:00:00+09:00"
+    },
+    {
+      "id": "7012405003784",
+      "name": "一般社団法人女性ホルモンバランスプランナー協会",
+      "category": "heavy-food",
+      "address": "東京都港区北青山２丁目１２番８号ＢＩＺＳＭＡＲＴ青山",
+      "lat": 35.670555,
+      "lng": 139.715622,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 7012405003784 / 該当キーワード: ホルモン",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "ホルモン"
+      ],
+      "postal_code": "1070061",
+      "kana": "",
+      "update_date": "2023-11-30T00:00:00+09:00"
+    },
+    {
+      "id": "8010701034453",
+      "name": "株式会社ホルモン",
+      "category": "heavy-food",
+      "address": "東京都品川区上大崎１丁目１５番２４号ドルフィンヴィレッジ３０１",
+      "lat": 35.633888,
+      "lng": 139.725998,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 8010701034453 / 該当キーワード: ホルモン",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "ホルモン"
+      ],
+      "postal_code": "1410021",
+      "kana": "",
+      "update_date": "2018-04-18T00:00:00+09:00"
+    },
+    {
+      "id": "9011601023066",
+      "name": "株式会社江古田ホルモン",
+      "category": "heavy-food",
+      "address": "東京都練馬区旭丘１丁目７３番１３号",
+      "lat": 35.736664,
+      "lng": 139.67337,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 9011601023066 / 該当キーワード: ホルモン",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "ホルモン"
+      ],
+      "postal_code": "1760005",
+      "kana": "",
+      "update_date": "2019-01-22T00:00:00+09:00"
+    },
+    {
+      "id": "1011202003870",
+      "name": "有限会社中華料理大むら",
+      "category": "heavy-food",
+      "address": "東京都中野区若宮３丁目７番３号",
+      "lat": 35.720787,
+      "lng": 139.64502,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 1011202003870 / 該当キーワード: 中華料理",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "中華料理"
+      ],
+      "postal_code": "1650033",
+      "kana": "",
+      "update_date": "2022-10-20T00:00:00+09:00"
+    },
+    {
+      "id": "2010505003214",
+      "name": "一般社団法人日本中華料理協会",
+      "category": "heavy-food",
+      "address": "東京都台東区北上野１丁目７番３号４階",
+      "lat": 35.716557,
+      "lng": 139.781494,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 2010505003214 / 該当キーワード: 中華料理",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "中華料理"
+      ],
+      "postal_code": "1100014",
+      "kana": "",
+      "update_date": "2021-03-05T00:00:00+09:00"
+    },
+    {
+      "id": "3011105002869",
+      "name": "特定非営利活動法人全日本中華料理・ホテル支援協会",
+      "category": "heavy-food",
+      "address": "東京都新宿区西新宿７丁目８番１１号大黒ビル５階",
+      "lat": 35.695824,
+      "lng": 139.698196,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 3011105002869 / 該当キーワード: 中華料理",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "中華料理"
+      ],
+      "postal_code": "1600023",
+      "kana": "",
+      "update_date": "2015-10-28T00:00:00+09:00"
+    },
+    {
+      "id": "3011603001595",
+      "name": "合同会社中華料理たつみ田柄店",
+      "category": "heavy-food",
+      "address": "東京都練馬区田柄５丁目１１番１２号",
+      "lat": 35.758625,
+      "lng": 139.635956,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 3011603001595 / 該当キーワード: 中華料理",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "中華料理"
+      ],
+      "postal_code": "1790073",
+      "kana": "",
+      "update_date": "2016-06-17T00:00:00+09:00"
+    },
+    {
+      "id": "4010505000993",
+      "name": "東京都中華料理生活衛生同業組合",
+      "category": "heavy-food",
+      "address": "東京都荒川区東日暮里６丁目１６番５号",
+      "lat": 35.728748,
+      "lng": 139.778107,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 4010505000993 / 該当キーワード: 中華料理",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "中華料理"
+      ],
+      "postal_code": "1160014",
+      "kana": "",
+      "update_date": "2025-07-15T00:00:00+09:00"
+    },
+    {
+      "id": "4013202004152",
+      "name": "有限会社中華料理だいしん",
+      "category": "heavy-food",
+      "address": "東京都目黒区中目黒３丁目２２番１１号",
+      "lat": 35.638851,
+      "lng": 139.69809,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 4013202004152 / 該当キーワード: 中華料理",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "中華料理"
+      ],
+      "postal_code": "1530061",
+      "kana": "",
+      "update_date": "2015-10-28T00:00:00+09:00"
+    },
+    {
+      "id": "5010502008923",
+      "name": "有限会社花や中華料理店",
+      "category": "heavy-food",
+      "address": "東京都台東区浅草橋５丁目１番３２号",
+      "lat": 35.700027,
+      "lng": 139.78331,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 5010502008923 / 該当キーワード: 中華料理",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "中華料理"
+      ],
+      "postal_code": "1110053",
+      "kana": "",
+      "update_date": "2015-10-28T00:00:00+09:00"
+    },
+    {
+      "id": "5010502015787",
+      "name": "有限会社中華料理十八番",
+      "category": "heavy-food",
+      "address": "東京都台東区元浅草４丁目５番１５号",
+      "lat": 35.709667,
+      "lng": 139.786194,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 5010502015787 / 該当キーワード: 中華料理",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "中華料理"
+      ],
+      "postal_code": "1110041",
+      "kana": "",
+      "update_date": "2026-03-24T00:00:00+09:00"
+    },
+    {
+      "id": "5010505000992",
+      "name": "全国中華料理生活衛生同業組合連合会",
+      "category": "heavy-food",
+      "address": "東京都台東区根岸３丁目２３番８号",
+      "lat": 35.724743,
+      "lng": 139.781357,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 5010505000992 / 該当キーワード: 中華料理",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "中華料理"
+      ],
+      "postal_code": "1100003",
+      "kana": "",
+      "update_date": "2018-12-05T00:00:00+09:00"
+    },
+    {
+      "id": "6011401004153",
+      "name": "株式会社中華料理珍来",
+      "category": "heavy-food",
+      "address": "東京都板橋区舟渡２丁目７番７号",
+      "lat": 35.794201,
+      "lng": 139.685776,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 6011401004153 / 該当キーワード: 中華料理",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "中華料理"
+      ],
+      "postal_code": "1740041",
+      "kana": "",
+      "update_date": "2023-01-11T00:00:00+09:00"
+    },
+    {
+      "id": "7010005032205",
+      "name": "一般社団法人神田中華料理会",
+      "category": "heavy-food",
+      "address": "東京都千代田区神田神保町２丁目４番地水戸興産ビル６階",
+      "lat": 35.696182,
+      "lng": 139.755798,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 7010005032205 / 該当キーワード: 中華料理",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "中華料理"
+      ],
+      "postal_code": "1010051",
+      "kana": "",
+      "update_date": "2026-04-09T00:00:00+09:00"
+    },
+    {
+      "id": "7011502003854",
+      "name": "有限会社中華料理大将",
+      "category": "heavy-food",
+      "address": "東京都北区昭和町１丁目３番８号",
+      "lat": 35.747009,
+      "lng": 139.755112,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 7011502003854 / 該当キーワード: 中華料理",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "中華料理"
+      ],
+      "postal_code": "1140011",
+      "kana": "",
+      "update_date": "2018-09-03T00:00:00+09:00"
+    },
+    {
+      "id": "8011202003872",
+      "name": "有限会社中華料理珍宝",
+      "category": "heavy-food",
+      "address": "東京都中野区中央２丁目３０番５号",
+      "lat": 35.697865,
+      "lng": 139.679138,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 8011202003872 / 該当キーワード: 中華料理",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "中華料理"
+      ],
+      "postal_code": "1640011",
+      "kana": "",
+      "update_date": "2018-01-15T00:00:00+09:00"
+    },
+    {
+      "id": "9010002012257",
+      "name": "有限会社中華料理石川",
+      "category": "heavy-food",
+      "address": "東京都千代田区九段北１丁目１０番７号",
+      "lat": 35.697479,
+      "lng": 139.751038,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 9010002012257 / 該当キーワード: 中華料理",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "中華料理"
+      ],
+      "postal_code": "1020073",
+      "kana": "",
+      "update_date": "2020-05-25T00:00:00+09:00"
+    },
+    {
+      "id": "9010801017423",
+      "name": "株式会社中華料理とらの子",
+      "category": "heavy-food",
+      "address": "東京都大田区東矢口３丁目２０番５－８０１号",
+      "lat": 35.562183,
+      "lng": 139.708633,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 9010801017423 / 該当キーワード: 中華料理",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "中華料理"
+      ],
+      "postal_code": "1460094",
+      "kana": "",
+      "update_date": "2024-01-04T00:00:00+09:00"
+    },
+    {
+      "id": "1012302003091",
+      "name": "有限会社中華そばかわかみ",
+      "category": "heavy-food",
+      "address": "東京都町田市旭町１丁目１２番１１号セジュール大滝１０５",
+      "lat": 35.555206,
+      "lng": 139.439865,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 1012302003091 / 該当キーワード: 中華そば",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "中華そば"
+      ],
+      "postal_code": "1940023",
+      "kana": "",
+      "update_date": "2015-10-30T00:00:00+09:00"
+    },
+    {
+      "id": "5011301001516",
+      "name": "株式会社荻窪中華そば春木屋",
+      "category": "heavy-food",
+      "address": "東京都杉並区上荻１丁目４番６号",
+      "lat": 35.705109,
+      "lng": 139.622437,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 5011301001516 / 該当キーワード: 中華そば",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "中華そば"
+      ],
+      "postal_code": "1670043",
+      "kana": "",
+      "update_date": "2018-07-12T00:00:00+09:00"
+    },
+    {
+      "id": "1010401119057",
+      "name": "Ｒａｍｅｎ　Ｈｅｒｏ　Ｊａｐａｎ株式会社",
+      "category": "heavy-food",
+      "address": "東京都港区新橋１丁目１８番２号",
+      "lat": 35.668629,
+      "lng": 139.755844,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 1010401119057 / 該当キーワード: ラーメン",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "ラーメン"
+      ],
+      "postal_code": "1050004",
+      "kana": "",
+      "update_date": "2024-04-03T00:00:00+09:00"
+    },
+    {
+      "id": "1011401007086",
+      "name": "東京ラーメン大番株式会社",
+      "category": "heavy-food",
+      "address": "東京都板橋区常盤台４丁目２３番７号",
+      "lat": 35.762962,
+      "lng": 139.678772,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 1011401007086 / 該当キーワード: ラーメン",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "ラーメン"
+      ],
+      "postal_code": "1740071",
+      "kana": "",
+      "update_date": "2015-10-28T00:00:00+09:00"
+    },
+    {
+      "id": "1011502006177",
+      "name": "有限会社山彦ラーメン",
+      "category": "heavy-food",
+      "address": "東京都北区中十条２丁目２１番１号",
+      "lat": 35.761574,
+      "lng": 139.723343,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 1011502006177 / 該当キーワード: ラーメン",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "ラーメン"
+      ],
+      "postal_code": "1140032",
+      "kana": "",
+      "update_date": "2015-10-28T00:00:00+09:00"
+    },
+    {
+      "id": "1012702001777",
+      "name": "有限会社丸ちゃんラーメン",
+      "category": "heavy-food",
+      "address": "東京都小平市学園東二丁目７番１６号",
+      "lat": 35.724556,
+      "lng": 139.480682,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 1012702001777 / 該当キーワード: ラーメン",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "ラーメン"
+      ],
+      "postal_code": "1870000",
+      "kana": "",
+      "update_date": "2015-10-30T00:00:00+09:00"
+    },
+    {
+      "id": "2010001228224",
+      "name": "株式会社Ｒａｍｅｎｓｔｏｃｋ",
+      "category": "heavy-food",
+      "address": "東京都中央区銀座３丁目１３－１１銀座芦澤ビル３階",
+      "lat": 35.670033,
+      "lng": 139.768875,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 2010001228224 / 該当キーワード: ラーメン",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "ラーメン"
+      ],
+      "postal_code": "1040061",
+      "kana": "",
+      "update_date": "2022-07-20T00:00:00+09:00"
+    },
+    {
+      "id": "2010401139640",
+      "name": "株式会社Ｒａｍｅｎ　Ｓｗｉｔｃｈ",
+      "category": "heavy-food",
+      "address": "東京都港区南青山２丁目２番１５号ウィン青山９４２",
+      "lat": 35.67149,
+      "lng": 139.724106,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 2010401139640 / 該当キーワード: ラーメン",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "ラーメン"
+      ],
+      "postal_code": "1070062",
+      "kana": "",
+      "update_date": "2018-07-23T00:00:00+09:00"
+    },
+    {
+      "id": "2010401181213",
+      "name": "株式会社Ｖｅｇａｎ　Ｒａｍｅｎ　Ｔｏｋｙｏ",
+      "category": "heavy-food",
+      "address": "東京都港区南青山４丁目１７番３３号グランカーサ南青山２Ｆ",
+      "lat": 35.664646,
+      "lng": 139.717575,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 2010401181213 / 該当キーワード: ラーメン",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "ラーメン"
+      ],
+      "postal_code": "1070062",
+      "kana": "",
+      "update_date": "2024-03-21T00:00:00+09:00"
+    },
+    {
+      "id": "2011702009929",
+      "name": "有限会社ファミリーラーメン",
+      "category": "heavy-food",
+      "address": "東京都江戸川区東小岩１丁目４番５号",
+      "lat": 35.719791,
+      "lng": 139.89093,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 2011702009929 / 該当キーワード: ラーメン",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "ラーメン"
+      ],
+      "postal_code": "1330052",
+      "kana": "",
+      "update_date": "2015-10-28T00:00:00+09:00"
+    },
+    {
+      "id": "2012401001565",
+      "name": "株式会社北海道ラーメン特一番総本舖",
+      "category": "heavy-food",
+      "address": "東京都府中市本宿町４丁目２２番地の１６",
+      "lat": 35.679787,
+      "lng": 139.460831,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 2012401001565 / 該当キーワード: ラーメン",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "ラーメン"
+      ],
+      "postal_code": "1830032",
+      "kana": "",
+      "update_date": "2018-05-15T00:00:00+09:00"
+    },
+    {
+      "id": "3010401195096",
+      "name": "株式会社ＨＡＬＡＬ　ＲＡＭＥＮ　ＪＡＰＡＮ",
+      "category": "heavy-food",
+      "address": "東京都港区六本木７丁目１８番１８号住友不動産六本木通ビル２Ｆ",
+      "lat": 35.662125,
+      "lng": 139.728683,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 3010401195096 / 該当キーワード: ラーメン",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "ラーメン"
+      ],
+      "postal_code": "1060032",
+      "kana": "",
+      "update_date": "2025-12-10T00:00:00+09:00"
+    },
+    {
+      "id": "3010501035862",
+      "name": "ＬＳソーラーメンテナンス株式会社",
+      "category": "heavy-food",
+      "address": "東京都港区芝４丁目３番５号",
+      "lat": 35.648853,
+      "lng": 139.750259,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 3010501035862 / 該当キーワード: ラーメン",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "ラーメン"
+      ],
+      "postal_code": "1080014",
+      "kana": "",
+      "update_date": "2015-10-26T00:00:00+09:00"
+    },
+    {
+      "id": "3011302002110",
+      "name": "有限会社おばこラーメン",
+      "category": "heavy-food",
+      "address": "東京都杉並区和田２丁目３５番７号",
+      "lat": 35.691174,
+      "lng": 139.656479,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 3011302002110 / 該当キーワード: ラーメン",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "ラーメン"
+      ],
+      "postal_code": "1660012",
+      "kana": "",
+      "update_date": "2025-01-29T00:00:00+09:00"
+    },
+    {
+      "id": "3011303000187",
+      "name": "合資会社北海道ラーメン荻窪本店",
+      "category": "heavy-food",
+      "address": "東京都杉並区上荻１丁目６番２号",
+      "lat": 35.704796,
+      "lng": 139.621277,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 3011303000187 / 該当キーワード: ラーメン",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "ラーメン"
+      ],
+      "postal_code": "1670043",
+      "kana": "",
+      "update_date": "2015-10-28T00:00:00+09:00"
+    },
+    {
+      "id": "3011702013095",
+      "name": "有限会社ラーメン江戸っ子",
+      "category": "heavy-food",
+      "address": "東京都江戸川区江戸川１丁目１０番地",
+      "lat": 35.688076,
+      "lng": 139.903168,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 3011702013095 / 該当キーワード: ラーメン",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "ラーメン"
+      ],
+      "postal_code": "1320013",
+      "kana": "",
+      "update_date": "2015-10-28T00:00:00+09:00"
+    },
+    {
+      "id": "3012303002074",
+      "name": "らーめんやっとこ合同会社",
+      "category": "heavy-food",
+      "address": "東京都町田市木曽西４丁目３６番４号",
+      "lat": 35.570244,
+      "lng": 139.421555,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 3012303002074 / 該当キーワード: ラーメン, らーめん",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "ラーメン",
+        "らーめん"
+      ],
+      "postal_code": "1940037",
+      "kana": "",
+      "update_date": "2024-11-20T00:00:00+09:00"
+    },
+    {
+      "id": "4010001259589",
+      "name": "株式会社スタンダードラーメン",
+      "category": "heavy-food",
+      "address": "東京都千代田区神田佐久間町２丁目１奥田ビル６Ｆ",
+      "lat": 35.697426,
+      "lng": 139.776199,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 4010001259589 / 該当キーワード: ラーメン",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "ラーメン"
+      ],
+      "postal_code": "1010025",
+      "kana": "",
+      "update_date": "2025-10-23T00:00:00+09:00"
+    },
+    {
+      "id": "4010005030847",
+      "name": "一般社団法人日本ラーメンアカデミー",
+      "category": "heavy-food",
+      "address": "東京都中央区銀座１丁目３番３号Ｇ１ビル７階",
+      "lat": 35.675415,
+      "lng": 139.766479,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 4010005030847 / 該当キーワード: ラーメン",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "ラーメン"
+      ],
+      "postal_code": "1040061",
+      "kana": "",
+      "update_date": "2019-10-08T00:00:00+09:00"
+    },
+    {
+      "id": "4010405022634",
+      "name": "一般社団法人日本味噌ラーメン協会",
+      "category": "heavy-food",
+      "address": "東京都港区白金５丁目４－１２－１０１",
+      "lat": 35.646004,
+      "lng": 139.727524,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 4010405022634 / 該当キーワード: ラーメン",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "ラーメン"
+      ],
+      "postal_code": "1080072",
+      "kana": "",
+      "update_date": "2023-11-06T00:00:00+09:00"
+    },
+    {
+      "id": "4010901014052",
+      "name": "株式会社鮎ラーメン",
+      "category": "heavy-food",
+      "address": "東京都世田谷区玉川３丁目１５番１２号",
+      "lat": 35.615253,
+      "lng": 139.625412,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 4010901014052 / 該当キーワード: ラーメン",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "ラーメン"
+      ],
+      "postal_code": "1580094",
+      "kana": "",
+      "update_date": "2023-01-10T00:00:00+09:00"
+    },
+    {
+      "id": "4011001018605",
+      "name": "株式会社博多長浜ラーメン勝龍軒本部",
+      "category": "heavy-food",
+      "address": "東京都渋谷区代々木４丁目８番１号フォレスト代々木",
+      "lat": 35.677372,
+      "lng": 139.692856,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 4011001018605 / 該当キーワード: ラーメン",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "ラーメン"
+      ],
+      "postal_code": "1510053",
+      "kana": "",
+      "update_date": "2026-01-20T00:00:00+09:00"
+    },
+    {
+      "id": "4011001158368",
+      "name": "野郎ラーメン株式会社",
+      "category": "heavy-food",
+      "address": "東京都渋谷区広尾１丁目３番１８号広尾オフィスビル",
+      "lat": 35.648697,
+      "lng": 139.712387,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 4011001158368 / 該当キーワード: ラーメン",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "ラーメン"
+      ],
+      "postal_code": "1500012",
+      "kana": "",
+      "update_date": "2023-11-20T00:00:00+09:00"
+    },
+    {
+      "id": "4011003021318",
+      "name": "合同会社Ｒａｍｅｎ　Ｂｅａｓｔ",
+      "category": "heavy-food",
+      "address": "東京都目黒区洗足２丁目２８－１７－２０１",
+      "lat": 35.60902,
+      "lng": 139.695358,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 4011003021318 / 該当キーワード: ラーメン",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "ラーメン"
+      ],
+      "postal_code": "1520012",
+      "kana": "",
+      "update_date": "2025-04-07T00:00:00+09:00"
+    },
+    {
+      "id": "4011101093309",
+      "name": "株式会社えびラーメンとチョコレートモンブランが食べたい",
+      "category": "heavy-food",
+      "address": "東京都新宿区西新宿７丁目７番２６号ワコーレ新宿第一ビル１１０９",
+      "lat": 35.697502,
+      "lng": 139.697586,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 4011101093309 / 該当キーワード: ラーメン",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "ラーメン"
+      ],
+      "postal_code": "1600023",
+      "kana": "",
+      "update_date": "2025-08-22T00:00:00+09:00"
+    },
+    {
+      "id": "4011802025717",
+      "name": "有限会社ラーメンあっと",
+      "category": "heavy-food",
+      "address": "東京都足立区江北６丁目５番２号",
+      "lat": 35.778385,
+      "lng": 139.766052,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 4011802025717 / 該当キーワード: ラーメン",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "ラーメン"
+      ],
+      "postal_code": "1230872",
+      "kana": "",
+      "update_date": "2015-10-28T00:00:00+09:00"
+    },
+    {
+      "id": "4060002023329",
+      "name": "株式会社ラーメン天華",
+      "category": "heavy-food",
+      "address": "東京都渋谷区桜丘町１番１号渋谷サクラステージＳＨＩＢＵＹＡタワー",
+      "lat": 35.657352,
+      "lng": 139.701874,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 4060002023329 / 該当キーワード: ラーメン",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "ラーメン"
+      ],
+      "postal_code": "1500031",
+      "kana": "",
+      "update_date": "2024-12-02T00:00:00+09:00"
+    },
+    {
+      "id": "5010105001887",
+      "name": "一般社団法人多摩ラーメン協会",
+      "category": "heavy-food",
+      "address": "東京都八王子市大和田町３丁目７番１６号２０８号室",
+      "lat": 35.662487,
+      "lng": 139.354187,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 5010105001887 / 該当キーワード: ラーメン",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "ラーメン"
+      ],
+      "postal_code": "1920045",
+      "kana": "",
+      "update_date": "2023-03-15T00:00:00+09:00"
+    },
+    {
+      "id": "5011001168259",
+      "name": "Ｂａｂａ　Ｒａｍｅｎ株式会社",
+      "category": "heavy-food",
+      "address": "東京都目黒区下目黒１丁目８番１号アルコタワー７階",
+      "lat": 35.632729,
+      "lng": 139.713303,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 5011001168259 / 該当キーワード: ラーメン",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "ラーメン"
+      ],
+      "postal_code": "1530064",
+      "kana": "",
+      "update_date": "2025-03-07T00:00:00+09:00"
+    },
+    {
+      "id": "5011001176121",
+      "name": "株式会社ラーメン事業準備法人",
+      "category": "heavy-food",
+      "address": "東京都渋谷区円山町５番３号ＭＩＥＵＸ渋谷ビル８階",
+      "lat": 35.65699,
+      "lng": 139.695618,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 5011001176121 / 該当キーワード: ラーメン",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "ラーメン"
+      ],
+      "postal_code": "1500044",
+      "kana": "",
+      "update_date": "2026-03-19T00:00:00+09:00"
+    },
+    {
+      "id": "5012702000024",
+      "name": "有限会社北海道ラーメン",
+      "category": "heavy-food",
+      "address": "東京都西東京市柳沢１丁目１０番３号",
+      "lat": 35.725838,
+      "lng": 139.554291,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 5012702000024 / 該当キーワード: ラーメン",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "ラーメン"
+      ],
+      "postal_code": "2020022",
+      "kana": "",
+      "update_date": "2023-01-18T00:00:00+09:00"
+    },
+    {
+      "id": "5013201011371",
+      "name": "株式会社ラーメンデータバンク",
+      "category": "heavy-food",
+      "address": "東京都目黒区目黒２丁目１１番１１号ＨＫビル",
+      "lat": 35.633797,
+      "lng": 139.70787,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 5013201011371 / 該当キーワード: ラーメン",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "ラーメン"
+      ],
+      "postal_code": "1530063",
+      "kana": "",
+      "update_date": "2018-04-20T00:00:00+09:00"
+    },
+    {
+      "id": "5050001051909",
+      "name": "株式会社ラーメン",
+      "category": "heavy-food",
+      "address": "東京都杉並区松庵３丁目１２番４号リーベスト松庵４０２",
+      "lat": 35.7001,
+      "lng": 139.594559,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 5050001051909 / 該当キーワード: ラーメン",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "ラーメン"
+      ],
+      "postal_code": "1670054",
+      "kana": "",
+      "update_date": "2023-06-14T00:00:00+09:00"
+    },
+    {
+      "id": "6010002006344",
+      "name": "有限会社湯島らーめん",
+      "category": "heavy-food",
+      "address": "東京都文京区湯島３丁目１０番１０号",
+      "lat": 35.703949,
+      "lng": 139.769669,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 6010002006344 / 該当キーワード: ラーメン, らーめん",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "ラーメン",
+        "らーめん"
+      ],
+      "postal_code": "1130034",
+      "kana": "",
+      "update_date": "2018-06-12T00:00:00+09:00"
+    },
+    {
+      "id": "6010005030548",
+      "name": "一般社団法人日本ラーメンを世界に広める会",
+      "category": "heavy-food",
+      "address": "東京都中央区日本橋本町１丁目１番８号ＫＤＸ新日本橋ビル",
+      "lat": 35.685249,
+      "lng": 139.776611,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 6010005030548 / 該当キーワード: ラーメン",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "ラーメン"
+      ],
+      "postal_code": "1030023",
+      "kana": "",
+      "update_date": "2024-12-05T00:00:00+09:00"
+    },
+    {
+      "id": "6011001066131",
+      "name": "株式会社らーめんワールド",
+      "category": "heavy-food",
+      "address": "東京都渋谷区道玄坂１丁目２２番８号朝日屋ビル１階",
+      "lat": 35.656136,
+      "lng": 139.695358,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 6011001066131 / 該当キーワード: ラーメン, らーめん",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "ラーメン",
+        "らーめん"
+      ],
+      "postal_code": "1500043",
+      "kana": "",
+      "update_date": "2018-12-25T00:00:00+09:00"
+    },
+    {
+      "id": "6011001151809",
+      "name": "株式会社Ｒａｈｍｅｎ",
+      "category": "heavy-food",
+      "address": "東京都渋谷区神宮前６丁目２３－４桑野ビル２階",
+      "lat": 35.664951,
+      "lng": 139.702484,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 6011001151809 / 該当キーワード: ラーメン",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "ラーメン"
+      ],
+      "postal_code": "1500001",
+      "kana": "",
+      "update_date": "2023-01-10T00:00:00+09:00"
+    },
+    {
+      "id": "6011502003979",
+      "name": "有限会社手打らーめん満月",
+      "category": "heavy-food",
+      "address": "東京都北区赤羽西１丁目３７番３号",
+      "lat": 35.777832,
+      "lng": 139.718597,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 6011502003979 / 該当キーワード: ラーメン, らーめん",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "ラーメン",
+        "らーめん"
+      ],
+      "postal_code": "1150055",
+      "kana": "",
+      "update_date": "2019-04-03T00:00:00+09:00"
+    },
+    {
+      "id": "6012801023296",
+      "name": "株式会社ＲＡＭＥＮ　ＳＡＶＥ　ＴＨＥ　ＷＯＲＬＤ",
+      "category": "heavy-food",
+      "address": "東京都昭島市福島町１０１１番地１３",
+      "lat": 35.7071,
+      "lng": 139.384048,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 6012801023296 / 該当キーワード: ラーメン",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "ラーメン"
+      ],
+      "postal_code": "1960031",
+      "kana": "",
+      "update_date": "2024-07-04T00:00:00+09:00"
+    },
+    {
+      "id": "6013205001624",
+      "name": "一般社団法人日本ラーメン協会",
+      "category": "heavy-food",
+      "address": "東京都江東区森下３丁目１４番３号全麺連会館３階",
+      "lat": 35.686043,
+      "lng": 139.802628,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 6013205001624 / 該当キーワード: ラーメン",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "ラーメン"
+      ],
+      "postal_code": "1350004",
+      "kana": "",
+      "update_date": "2022-09-16T00:00:00+09:00"
+    },
+    {
+      "id": "7010902017729",
+      "name": "有限会社ラーメン二郎",
+      "category": "heavy-food",
+      "address": "東京都世田谷区野沢４丁目９番１５号",
+      "lat": 35.632736,
+      "lng": 139.668121,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 7010902017729 / 該当キーワード: ラーメン",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "ラーメン"
+      ],
+      "postal_code": "1540003",
+      "kana": "",
+      "update_date": "2015-10-28T00:00:00+09:00"
+    },
+    {
+      "id": "7011801007985",
+      "name": "株式会社くるまやラーメン",
+      "category": "heavy-food",
+      "address": "東京都足立区青井５丁目５番１５号",
+      "lat": 35.778351,
+      "lng": 139.817047,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 7011801007985 / 該当キーワード: ラーメン",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "ラーメン"
+      ],
+      "postal_code": "1210012",
+      "kana": "",
+      "update_date": "2019-02-08T00:00:00+09:00"
+    },
+    {
+      "id": "7012401042464",
+      "name": "株式会社らーめん梶原",
+      "category": "heavy-food",
+      "address": "東京都府中市本宿町１丁目３１番地の１７",
+      "lat": 35.668888,
+      "lng": 139.460236,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 7012401042464 / 該当キーワード: ラーメン, らーめん",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "ラーメン",
+        "らーめん"
+      ],
+      "postal_code": "1830032",
+      "kana": "",
+      "update_date": "2024-11-13T00:00:00+09:00"
+    },
+    {
+      "id": "7012702002019",
+      "name": "有限会社ラーメンとん子",
+      "category": "heavy-food",
+      "address": "東京都小平市小川町２丁目１９１４番地",
+      "lat": 35.731255,
+      "lng": 139.47197,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 7012702002019 / 該当キーワード: ラーメン",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "ラーメン"
+      ],
+      "postal_code": "1870032",
+      "kana": "",
+      "update_date": "2015-10-30T00:00:00+09:00"
+    },
+    {
+      "id": "7013202013415",
+      "name": "有限会社東京ラーメンカンパニー",
+      "category": "heavy-food",
+      "address": "東京都渋谷区広尾１丁目３番１８号",
+      "lat": 35.648697,
+      "lng": 139.712387,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 7013202013415 / 該当キーワード: ラーメン",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "ラーメン"
+      ],
+      "postal_code": "1500012",
+      "kana": "",
+      "update_date": "2021-12-15T00:00:00+09:00"
+    },
+    {
+      "id": "8010401114175",
+      "name": "株式会社赤坂ラーメン",
+      "category": "heavy-food",
+      "address": "東京都港区赤坂６丁目１０番７号",
+      "lat": 35.668682,
+      "lng": 139.735565,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 8010401114175 / 該当キーワード: ラーメン",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "ラーメン"
+      ],
+      "postal_code": "1070052",
+      "kana": "",
+      "update_date": "2020-10-06T00:00:00+09:00"
+    },
+    {
+      "id": "8010701046606",
+      "name": "ＴＯＫＹＯ　ＲＡＭＥＮ　ＹＵＫＩ株式会社",
+      "category": "heavy-food",
+      "address": "東京都品川区大崎１丁目１１番２号",
+      "lat": 35.619869,
+      "lng": 139.731308,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 8010701046606 / 該当キーワード: ラーメン",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "ラーメン"
+      ],
+      "postal_code": "1410032",
+      "kana": "",
+      "update_date": "2024-10-03T00:00:00+09:00"
+    },
+    {
+      "id": "8010802015484",
+      "name": "有限会社ラーメン日本一事業本部",
+      "category": "heavy-food",
+      "address": "東京都大田区西糀谷２丁目２７番１０－Ｂ－２０２号",
+      "lat": 35.557415,
+      "lng": 139.736877,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 8010802015484 / 該当キーワード: ラーメン",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "ラーメン"
+      ],
+      "postal_code": "1440034",
+      "kana": "",
+      "update_date": "2015-10-28T00:00:00+09:00"
+    },
+    {
+      "id": "8011401012798",
+      "name": "株式会社飛驒の高山らーめん",
+      "category": "heavy-food",
+      "address": "東京都板橋区板橋１丁目４２番２号",
+      "lat": 35.748672,
+      "lng": 139.716309,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 8011401012798 / 該当キーワード: ラーメン, らーめん",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "ラーメン",
+        "らーめん"
+      ],
+      "postal_code": "1730004",
+      "kana": "",
+      "update_date": "2018-04-20T00:00:00+09:00"
+    },
+    {
+      "id": "8011401014951",
+      "name": "明大前ラーメン株式会社",
+      "category": "heavy-food",
+      "address": "東京都板橋区東山町３５番１０号",
+      "lat": 35.753716,
+      "lng": 139.684372,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 8011401014951 / 該当キーワード: ラーメン",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "ラーメン"
+      ],
+      "postal_code": "1740073",
+      "kana": "",
+      "update_date": "2015-10-28T00:00:00+09:00"
+    },
+    {
+      "id": "8011403002509",
+      "name": "金太郎ラーメン合同会社",
+      "category": "heavy-food",
+      "address": "東京都板橋区坂下１丁目６番２１－５０７号",
+      "lat": 35.779575,
+      "lng": 139.686661,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 8011403002509 / 該当キーワード: ラーメン",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "ラーメン"
+      ],
+      "postal_code": "1740043",
+      "kana": "",
+      "update_date": "2018-10-09T00:00:00+09:00"
+    },
+    {
+      "id": "8011801005195",
+      "name": "株式会社ラーメン大学",
+      "category": "heavy-food",
+      "address": "東京都葛飾区四つ木４丁目２６番４号",
+      "lat": 35.738213,
+      "lng": 139.836624,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 8011801005195 / 該当キーワード: ラーメン",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "ラーメン"
+      ],
+      "postal_code": "1240011",
+      "kana": "",
+      "update_date": "2018-08-28T00:00:00+09:00"
+    },
+    {
+      "id": "8011802020235",
+      "name": "有限会社好味ラーメン",
+      "category": "heavy-food",
+      "address": "東京都足立区伊興本町１丁目１番２号",
+      "lat": 35.796188,
+      "lng": 139.788422,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 8011802020235 / 該当キーワード: ラーメン",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "ラーメン"
+      ],
+      "postal_code": "1210807",
+      "kana": "",
+      "update_date": "2015-10-28T00:00:00+09:00"
+    },
+    {
+      "id": "8012402022893",
+      "name": "有限会社ラーメンさくらい",
+      "category": "heavy-food",
+      "address": "東京都武蔵野市吉祥寺本町１丁目９番１０号",
+      "lat": 35.704247,
+      "lng": 139.580032,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 8012402022893 / 該当キーワード: ラーメン",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "ラーメン"
+      ],
+      "postal_code": "1800004",
+      "kana": "",
+      "update_date": "2015-10-30T00:00:00+09:00"
+    },
+    {
+      "id": "8012403006978",
+      "name": "合同会社ＫＩＥラーメン",
+      "category": "heavy-food",
+      "address": "東京都三鷹市下連雀３丁目３１番１０号",
+      "lat": 35.697899,
+      "lng": 139.560486,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 8012403006978 / 該当キーワード: ラーメン",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "ラーメン"
+      ],
+      "postal_code": "1810013",
+      "kana": "",
+      "update_date": "2025-02-20T00:00:00+09:00"
+    },
+    {
+      "id": "9010401105116",
+      "name": "株式会社九十九ラーメン",
+      "category": "heavy-food",
+      "address": "東京都港区六本木５丁目２番１号",
+      "lat": 35.662334,
+      "lng": 139.733658,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 9010401105116 / 該当キーワード: ラーメン",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "ラーメン"
+      ],
+      "postal_code": "1060032",
+      "kana": "",
+      "update_date": "2016-03-01T00:00:00+09:00"
+    },
+    {
+      "id": "9010901038352",
+      "name": "株式会社ラーメンキング",
+      "category": "heavy-food",
+      "address": "東京都豊島区西池袋３丁目２９番１１－５Ａ",
+      "lat": 35.731487,
+      "lng": 139.706726,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 9010901038352 / 該当キーワード: ラーメン",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "ラーメン"
+      ],
+      "postal_code": "1710021",
+      "kana": "",
+      "update_date": "2018-08-10T00:00:00+09:00"
+    },
+    {
+      "id": "3012802000124",
+      "name": "有限会社当り矢らーめん",
+      "category": "heavy-food",
+      "address": "東京都立川市高松町３丁目２１番４号",
+      "lat": 35.704243,
+      "lng": 139.417908,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 3012802000124 / 該当キーワード: らーめん",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "らーめん"
+      ],
+      "postal_code": "1900011",
+      "kana": "",
+      "update_date": "2015-10-30T00:00:00+09:00"
+    },
+    {
+      "id": "8011702012448",
+      "name": "有限会社らーめん勝",
+      "category": "heavy-food",
+      "address": "東京都江戸川区篠崎町７丁目１３番２０号",
+      "lat": 35.703308,
+      "lng": 139.902588,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 8011702012448 / 該当キーワード: らーめん",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "らーめん"
+      ],
+      "postal_code": "1330061",
+      "kana": "",
+      "update_date": "2015-10-28T00:00:00+09:00"
+    },
+    {
+      "id": "1010003043647",
+      "name": "合同会社ビー餃子門前仲町",
+      "category": "heavy-food",
+      "address": "東京都中央区日本橋兜町１７－１－７０７",
+      "lat": 35.679203,
+      "lng": 139.776138,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 1010003043647 / 該当キーワード: 餃子",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "餃子"
+      ],
+      "postal_code": "1030026",
+      "kana": "",
+      "update_date": "2024-05-07T00:00:00+09:00"
+    },
+    {
+      "id": "1010603004882",
+      "name": "合同会社日本餃子協会",
+      "category": "heavy-food",
+      "address": "東京都墨田区押上３丁目７番６－３０１号",
+      "lat": 35.713932,
+      "lng": 139.817703,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 1010603004882 / 該当キーワード: 餃子",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "餃子"
+      ],
+      "postal_code": "1310045",
+      "kana": "",
+      "update_date": "2015-10-28T00:00:00+09:00"
+    },
+    {
+      "id": "1011501023660",
+      "name": "株式会社餃子は一龍",
+      "category": "heavy-food",
+      "address": "東京都荒川区荒川６丁目４２番１０号",
+      "lat": 35.743542,
+      "lng": 139.776566,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 1011501023660 / 該当キーワード: 餃子",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "餃子"
+      ],
+      "postal_code": "1160002",
+      "kana": "",
+      "update_date": "2018-04-25T00:00:00+09:00"
+    },
+    {
+      "id": "1012402018634",
+      "name": "有限会社餃子菜館",
+      "category": "heavy-food",
+      "address": "東京都三鷹市上連雀２丁目１８番１８号",
+      "lat": 35.699005,
+      "lng": 139.555908,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 1012402018634 / 該当キーワード: 餃子",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "餃子"
+      ],
+      "postal_code": "1810012",
+      "kana": "",
+      "update_date": "2015-10-30T00:00:00+09:00"
+    },
+    {
+      "id": "1012701017089",
+      "name": "株式会社やさしい餃子",
+      "category": "heavy-food",
+      "address": "東京都東村山市本町２丁目１９番６１号",
+      "lat": 35.759926,
+      "lng": 139.468262,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 1012701017089 / 該当キーワード: 餃子",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "餃子"
+      ],
+      "postal_code": "1890014",
+      "kana": "",
+      "update_date": "2022-06-03T00:00:00+09:00"
+    },
+    {
+      "id": "1012801002057",
+      "name": "ケンちゃん餃子株式会社",
+      "category": "heavy-food",
+      "address": "東京都昭島市武蔵野３丁目１０番２０号",
+      "lat": 35.720135,
+      "lng": 139.374374,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 1012801002057 / 該当キーワード: 餃子",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "餃子"
+      ],
+      "postal_code": "1960021",
+      "kana": "",
+      "update_date": "2018-12-21T00:00:00+09:00"
+    },
+    {
+      "id": "3010401126002",
+      "name": "株式会社品川餃子",
+      "category": "heavy-food",
+      "address": "東京都港区南青山１丁目２３番７号",
+      "lat": 35.666603,
+      "lng": 139.724991,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 3010401126002 / 該当キーワード: 餃子",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "餃子"
+      ],
+      "postal_code": "1070062",
+      "kana": "",
+      "update_date": "2026-01-26T00:00:00+09:00"
+    },
+    {
+      "id": "3010601060356",
+      "name": "株式会社餃子酒場大田屋",
+      "category": "heavy-food",
+      "address": "東京都墨田区東向島２丁目１４番６号岩田ビル１０２号室",
+      "lat": 35.717686,
+      "lng": 139.81633,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 3010601060356 / 該当キーワード: 餃子, 酒場",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "餃子",
+        "酒場"
+      ],
+      "postal_code": "1310032",
+      "kana": "",
+      "update_date": "2021-12-08T00:00:00+09:00"
+    },
+    {
+      "id": "4011003010238",
+      "name": "合同会社餃子王",
+      "category": "heavy-food",
+      "address": "東京都渋谷区道玄坂２丁目２３番１号小池ビル２階",
+      "lat": 35.660236,
+      "lng": 139.696365,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 4011003010238 / 該当キーワード: 餃子",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "餃子"
+      ],
+      "postal_code": "1500043",
+      "kana": "",
+      "update_date": "2024-01-10T00:00:00+09:00"
+    },
+    {
+      "id": "4011802021740",
+      "name": "有限会社岡本餃子店",
+      "category": "heavy-food",
+      "address": "東京都足立区関原３丁目１５番３号",
+      "lat": 35.771671,
+      "lng": 139.790802,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 4011802021740 / 該当キーワード: 餃子",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "餃子"
+      ],
+      "postal_code": "1230852",
+      "kana": "",
+      "update_date": "2015-10-28T00:00:00+09:00"
+    },
+    {
+      "id": "5010405016362",
+      "name": "一般社団法人焼き餃子協会",
+      "category": "heavy-food",
+      "address": "東京都渋谷区恵比寿西１丁目３３番６号",
+      "lat": 35.647125,
+      "lng": 139.704239,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 5010405016362 / 該当キーワード: 餃子",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "餃子"
+      ],
+      "postal_code": "1500021",
+      "kana": "",
+      "update_date": "2025-06-25T00:00:00+09:00"
+    },
+    {
+      "id": "5011401011761",
+      "name": "株式会社餃子研究所",
+      "category": "heavy-food",
+      "address": "東京都板橋区常盤台１丁目５９番３－５０２号",
+      "lat": 35.758606,
+      "lng": 139.694443,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 5011401011761 / 該当キーワード: 餃子",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "餃子"
+      ],
+      "postal_code": "1740071",
+      "kana": "",
+      "update_date": "2016-09-08T00:00:00+09:00"
+    },
+    {
+      "id": "5011705001905",
+      "name": "一般社団法人日本餃子の道協会",
+      "category": "heavy-food",
+      "address": "東京都江戸川区上篠崎２丁目２番１６号１階",
+      "lat": 35.709427,
+      "lng": 139.901993,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 5011705001905 / 該当キーワード: 餃子",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "餃子"
+      ],
+      "postal_code": "1330054",
+      "kana": "",
+      "update_date": "2025-08-26T00:00:00+09:00"
+    },
+    {
+      "id": "6010001013572",
+      "name": "株式会社神田餃子屋",
+      "category": "heavy-food",
+      "address": "東京都千代田区神田神保町１丁目４番地",
+      "lat": 35.696312,
+      "lng": 139.759811,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 6010001013572 / 該当キーワード: 餃子",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "餃子"
+      ],
+      "postal_code": "1010051",
+      "kana": "",
+      "update_date": "2021-01-18T00:00:00+09:00"
+    },
+    {
+      "id": "6010001224731",
+      "name": "株式会社餃子図書館",
+      "category": "heavy-food",
+      "address": "東京都千代田区六番町６番地４ＬＨ番町スクエア５Ｆ",
+      "lat": 35.687614,
+      "lng": 139.732788,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 6010001224731 / 該当キーワード: 餃子",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "餃子"
+      ],
+      "postal_code": "1020085",
+      "kana": "",
+      "update_date": "2025-04-11T00:00:00+09:00"
+    },
+    {
+      "id": "6011102017108",
+      "name": "有限会社餃子の点点",
+      "category": "heavy-food",
+      "address": "東京都新宿区中落合３丁目２５番３号",
+      "lat": 35.722507,
+      "lng": 139.68663,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 6011102017108 / 該当キーワード: 餃子",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "餃子"
+      ],
+      "postal_code": "1610032",
+      "kana": "",
+      "update_date": "2026-01-27T00:00:00+09:00"
+    },
+    {
+      "id": "7010003013140",
+      "name": "天鴻餃子房合同会社",
+      "category": "heavy-food",
+      "address": "東京都千代田区神田錦町３丁目１４番９号",
+      "lat": 35.693642,
+      "lng": 139.761887,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 7010003013140 / 該当キーワード: 餃子",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "餃子"
+      ],
+      "postal_code": "1010054",
+      "kana": "",
+      "update_date": "2023-01-27T00:00:00+09:00"
+    },
+    {
+      "id": "7010401177512",
+      "name": "株式会社日本餃子協会",
+      "category": "heavy-food",
+      "address": "東京都新宿区高田馬場１丁目１７番１８号ＳＴ高田馬場ビル１階",
+      "lat": 35.711887,
+      "lng": 139.70752,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 7010401177512 / 該当キーワード: 餃子",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "餃子"
+      ],
+      "postal_code": "1690075",
+      "kana": "",
+      "update_date": "2023-12-25T00:00:00+09:00"
+    },
+    {
+      "id": "7010602001487",
+      "name": "有限会社葛西橋餃子",
+      "category": "heavy-food",
+      "address": "東京都江東区東砂４丁目１６番１２号",
+      "lat": 35.676361,
+      "lng": 139.840118,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 7010602001487 / 該当キーワード: 餃子",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "餃子"
+      ],
+      "postal_code": "1360074",
+      "kana": "",
+      "update_date": "2015-10-28T00:00:00+09:00"
+    },
+    {
+      "id": "7010701036632",
+      "name": "株式会社餃子Ｌａｂ",
+      "category": "heavy-food",
+      "address": "東京都品川区東五反田２丁目３番４号８階",
+      "lat": 35.62558,
+      "lng": 139.726242,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 7010701036632 / 該当キーワード: 餃子",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "餃子"
+      ],
+      "postal_code": "1410022",
+      "kana": "",
+      "update_date": "2021-07-21T00:00:00+09:00"
+    },
+    {
+      "id": "7011303002320",
+      "name": "合同会社南青山手作り餃子工房",
+      "category": "heavy-food",
+      "address": "東京都杉並区和泉４丁目１７番３４号",
+      "lat": 35.681538,
+      "lng": 139.652191,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 7011303002320 / 該当キーワード: 餃子",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "餃子"
+      ],
+      "postal_code": "1680063",
+      "kana": "",
+      "update_date": "2015-10-28T00:00:00+09:00"
+    },
+    {
+      "id": "8010403023457",
+      "name": "合同会社麻布餃子",
+      "category": "heavy-food",
+      "address": "東京都港区南麻布２丁目５番１６・１Ｆ",
+      "lat": 35.649544,
+      "lng": 139.737015,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 8010403023457 / 該当キーワード: 餃子",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "餃子"
+      ],
+      "postal_code": "1060047",
+      "kana": "",
+      "update_date": "2020-09-25T00:00:00+09:00"
+    },
+    {
+      "id": "8010801021582",
+      "name": "株式会社四川餃子房",
+      "category": "heavy-food",
+      "address": "東京都大田区西糀谷４丁目２６番８号",
+      "lat": 35.553272,
+      "lng": 139.731216,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 8010801021582 / 該当キーワード: 餃子",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "餃子"
+      ],
+      "postal_code": "1440034",
+      "kana": "",
+      "update_date": "2021-08-19T00:00:00+09:00"
+    },
+    {
+      "id": "8120001095540",
+      "name": "株式会社餃子計画",
+      "category": "heavy-food",
+      "address": "東京都港区西新橋２丁目７番４号",
+      "lat": 35.666805,
+      "lng": 139.753891,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 8120001095540 / 該当キーワード: 餃子",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "餃子"
+      ],
+      "postal_code": "1050003",
+      "kana": "",
+      "update_date": "2022-09-26T00:00:00+09:00"
+    },
+    {
+      "id": "2011002012328",
+      "name": "有限会社焼鳥商会",
+      "category": "heavy-food",
+      "address": "東京都渋谷区代々木１丁目３２番１号",
+      "lat": 35.682358,
+      "lng": 139.702454,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 2011002012328 / 該当キーワード: 焼鳥",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "焼鳥"
+      ],
+      "postal_code": "1510053",
+      "kana": "",
+      "update_date": "2015-10-28T00:00:00+09:00"
+    },
+    {
+      "id": "3010002011719",
+      "name": "有限会社戦国焼鳥信長本陣",
+      "category": "heavy-food",
+      "address": "東京都千代田区神田小川町１丁目７番地",
+      "lat": 35.694077,
+      "lng": 139.765594,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 3010002011719 / 該当キーワード: 焼鳥",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "焼鳥"
+      ],
+      "postal_code": "1010052",
+      "kana": "",
+      "update_date": "2015-10-26T00:00:00+09:00"
+    },
+    {
+      "id": "3010105002326",
+      "name": "一般社団法人焼鳥大学校",
+      "category": "heavy-food",
+      "address": "東京都八王子市横山町２番９－１１０８号",
+      "lat": 35.659584,
+      "lng": 139.340057,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 3010105002326 / 該当キーワード: 焼鳥",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "焼鳥"
+      ],
+      "postal_code": "1920081",
+      "kana": "",
+      "update_date": "2025-02-26T00:00:00+09:00"
+    },
+    {
+      "id": "3013301050569",
+      "name": "株式会社焼鳥どん",
+      "category": "heavy-food",
+      "address": "東京都豊島区西巣鴨３丁目２５番１１号",
+      "lat": 35.743614,
+      "lng": 139.7285,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 3013301050569 / 該当キーワード: 焼鳥",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "焼鳥"
+      ],
+      "postal_code": "1700001",
+      "kana": "",
+      "update_date": "2023-04-12T00:00:00+09:00"
+    },
+    {
+      "id": "7010701033514",
+      "name": "株式会社焼鳥晋ちゃん",
+      "category": "heavy-food",
+      "address": "東京都品川区大井４丁目１番５号",
+      "lat": 35.604042,
+      "lng": 139.733337,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 7010701033514 / 該当キーワード: 焼鳥",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "焼鳥"
+      ],
+      "postal_code": "1400014",
+      "kana": "",
+      "update_date": "2019-02-27T00:00:00+09:00"
+    },
+    {
+      "id": "7011302009408",
+      "name": "有限会社焼鳥三條",
+      "category": "heavy-food",
+      "address": "東京都杉並区浜田山３丁目２３番６号",
+      "lat": 35.681435,
+      "lng": 139.628937,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 7011302009408 / 該当キーワード: 焼鳥",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "焼鳥"
+      ],
+      "postal_code": "1680065",
+      "kana": "",
+      "update_date": "2015-10-28T00:00:00+09:00"
+    },
+    {
+      "id": "3010103002609",
+      "name": "焼き鳥すず喜合同会社",
+      "category": "heavy-food",
+      "address": "東京都八王子市東町１２番８号長澤ビル４Ｆ",
+      "lat": 35.658268,
+      "lng": 139.337784,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 3010103002609 / 該当キーワード: 焼き鳥",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "焼き鳥"
+      ],
+      "postal_code": "1920082",
+      "kana": "",
+      "update_date": "2025-11-20T00:00:00+09:00"
+    },
+    {
+      "id": "4010505002230",
+      "name": "一般社団法人日本焼き鳥協会",
+      "category": "heavy-food",
+      "address": "東京都台東区浅草５丁目６番４号",
+      "lat": 35.719563,
+      "lng": 139.796814,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 4010505002230 / 該当キーワード: 焼き鳥",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "焼き鳥"
+      ],
+      "postal_code": "1110032",
+      "kana": "",
+      "update_date": "2019-05-20T00:00:00+09:00"
+    },
+    {
+      "id": "7010102007076",
+      "name": "有限会社焼き鳥小太郎",
+      "category": "heavy-food",
+      "address": "東京都八王子市子安町２丁目２６番９号",
+      "lat": 35.648842,
+      "lng": 139.342102,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 7010102007076 / 該当キーワード: 焼き鳥",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "焼き鳥"
+      ],
+      "postal_code": "1920904",
+      "kana": "",
+      "update_date": "2020-07-30T00:00:00+09:00"
+    },
+    {
+      "id": "1010002004253",
+      "name": "有限会社とんかつわらしっ子",
+      "category": "heavy-food",
+      "address": "東京都文京区本駒込４丁目３５番１９号",
+      "lat": 35.733524,
+      "lng": 139.75589,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 1010002004253 / 該当キーワード: とんかつ",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "とんかつ"
+      ],
+      "postal_code": "1130021",
+      "kana": "",
+      "update_date": "2023-02-01T00:00:00+09:00"
+    },
+    {
+      "id": "1010003003980",
+      "name": "合資会社とんかつ仙台",
+      "category": "heavy-food",
+      "address": "東京都千代田区平河町２丁目６番地",
+      "lat": 35.679234,
+      "lng": 139.739197,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 1010003003980 / 該当キーワード: とんかつ",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "とんかつ"
+      ],
+      "postal_code": "1020093",
+      "kana": "",
+      "update_date": "2015-10-26T00:00:00+09:00"
+    },
+    {
+      "id": "1010802010269",
+      "name": "有限会社とんかつ鈴文",
+      "category": "heavy-food",
+      "address": "東京都大田区西蒲田５丁目１９番１１号",
+      "lat": 35.564602,
+      "lng": 139.714584,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 1010802010269 / 該当キーワード: とんかつ",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "とんかつ"
+      ],
+      "postal_code": "1440051",
+      "kana": "",
+      "update_date": "2017-05-15T00:00:00+09:00"
+    },
+    {
+      "id": "1010902010722",
+      "name": "有限会社とんかつ椿",
+      "category": "heavy-food",
+      "address": "東京都世田谷区成城５丁目１５番３号",
+      "lat": 35.642761,
+      "lng": 139.596436,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 1010902010722 / 該当キーワード: とんかつ",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "とんかつ"
+      ],
+      "postal_code": "1570066",
+      "kana": "",
+      "update_date": "2015-10-28T00:00:00+09:00"
+    },
+    {
+      "id": "1011502004206",
+      "name": "有限会社とんかつふく兵衛",
+      "category": "heavy-food",
+      "address": "東京都北区岸町１丁目１番１０号",
+      "lat": 35.753315,
+      "lng": 139.736923,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 1011502004206 / 該当キーワード: とんかつ",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "とんかつ"
+      ],
+      "postal_code": "1140021",
+      "kana": "",
+      "update_date": "2022-03-18T00:00:00+09:00"
+    },
+    {
+      "id": "2010502007952",
+      "name": "有限会社とんかつ大泉",
+      "category": "heavy-food",
+      "address": "東京都台東区台東１丁目１８番５号",
+      "lat": 35.701813,
+      "lng": 139.780487,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 2010502007952 / 該当キーワード: とんかつ",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "とんかつ"
+      ],
+      "postal_code": "1100016",
+      "kana": "",
+      "update_date": "2019-12-19T00:00:00+09:00"
+    },
+    {
+      "id": "3010402008950",
+      "name": "有限会社とんかつ鈴木",
+      "category": "heavy-food",
+      "address": "東京都港区白金６丁目２２番１８号",
+      "lat": 35.643902,
+      "lng": 139.721359,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 3010402008950 / 該当キーワード: とんかつ",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "とんかつ"
+      ],
+      "postal_code": "1080072",
+      "kana": "",
+      "update_date": "2023-08-15T00:00:00+09:00"
+    },
+    {
+      "id": "3013302002115",
+      "name": "有限会社金内とんかつ南禅",
+      "category": "heavy-food",
+      "address": "東京都豊島区東池袋１丁目１５番３号",
+      "lat": 35.730766,
+      "lng": 139.714859,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 3013302002115 / 該当キーワード: とんかつ",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "とんかつ"
+      ],
+      "postal_code": "1700013",
+      "kana": "",
+      "update_date": "2015-10-28T00:00:00+09:00"
+    },
+    {
+      "id": "4010002023151",
+      "name": "有限会社とんかつ大和",
+      "category": "heavy-food",
+      "address": "東京都中央区日本橋室町４丁目２番６号",
+      "lat": 35.689785,
+      "lng": 139.771652,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 4010002023151 / 該当キーワード: とんかつ",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "とんかつ"
+      ],
+      "postal_code": "1030022",
+      "kana": "",
+      "update_date": "2015-10-26T00:00:00+09:00"
+    },
+    {
+      "id": "5011001168928",
+      "name": "株式会社とんかつ",
+      "category": "heavy-food",
+      "address": "東京都渋谷区道玄坂１丁目１０番８号渋谷道玄坂東急ビル２Ｆ－Ｃ",
+      "lat": 35.656879,
+      "lng": 139.69873,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 5011001168928 / 該当キーワード: とんかつ",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "とんかつ"
+      ],
+      "postal_code": "1500043",
+      "kana": "",
+      "update_date": "2025-04-14T00:00:00+09:00"
+    },
+    {
+      "id": "6010002023158",
+      "name": "有限会社とんかつ申申",
+      "category": "heavy-food",
+      "address": "東京都中央区日本橋本石町４丁目４番１７号",
+      "lat": 35.688583,
+      "lng": 139.771423,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 6010002023158 / 該当キーワード: とんかつ",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "とんかつ"
+      ],
+      "postal_code": "1030021",
+      "kana": "",
+      "update_date": "2015-10-26T00:00:00+09:00"
+    },
+    {
+      "id": "6010502007957",
+      "name": "有限会社とんかつ大つか",
+      "category": "heavy-food",
+      "address": "東京都台東区根岸３丁目１０番２号",
+      "lat": 35.724102,
+      "lng": 139.778778,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 6010502007957 / 該当キーワード: とんかつ",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "とんかつ"
+      ],
+      "postal_code": "1100003",
+      "kana": "",
+      "update_date": "2015-10-28T00:00:00+09:00"
+    },
+    {
+      "id": "6011401017857",
+      "name": "とんかつ総株式会社",
+      "category": "heavy-food",
+      "address": "東京都板橋区西台４丁目８番２０号エステート西台３０８",
+      "lat": 35.77179,
+      "lng": 139.669388,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 6011401017857 / 該当キーワード: とんかつ",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "とんかつ"
+      ],
+      "postal_code": "1750045",
+      "kana": "",
+      "update_date": "2023-05-29T00:00:00+09:00"
+    },
+    {
+      "id": "6013302007128",
+      "name": "有限会社とんかつとんぼ",
+      "category": "heavy-food",
+      "address": "東京都豊島区西池袋３丁目２３番５号",
+      "lat": 35.730289,
+      "lng": 139.706833,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 6013302007128 / 該当キーワード: とんかつ",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "とんかつ"
+      ],
+      "postal_code": "1710021",
+      "kana": "",
+      "update_date": "2023-01-30T00:00:00+09:00"
+    },
+    {
+      "id": "7010502007956",
+      "name": "有限会社とんかつにしかわ",
+      "category": "heavy-food",
+      "address": "東京都台東区蔵前４丁目３７番１２号",
+      "lat": 35.705914,
+      "lng": 139.788483,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 7010502007956 / 該当キーワード: とんかつ",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "とんかつ"
+      ],
+      "postal_code": "1110051",
+      "kana": "",
+      "update_date": "2016-09-08T00:00:00+09:00"
+    },
+    {
+      "id": "9011802005549",
+      "name": "有限会社とんかつ＿屋",
+      "category": "heavy-food",
+      "address": "東京都葛飾区青戸３丁目３３番６号",
+      "lat": 35.746967,
+      "lng": 139.855347,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 9011802005549 / 該当キーワード: とんかつ",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "とんかつ"
+      ],
+      "postal_code": "1250062",
+      "kana": "",
+      "update_date": "2015-10-28T00:00:00+09:00"
+    },
+    {
+      "id": "9012702007024",
+      "name": "有限会社とんかついのやま",
+      "category": "heavy-food",
+      "address": "東京都東久留米市滝山４丁目１番２０号",
+      "lat": 35.745548,
+      "lng": 139.504349,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 9012702007024 / 該当キーワード: とんかつ",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "とんかつ"
+      ],
+      "postal_code": "2030033",
+      "kana": "",
+      "update_date": "2015-10-30T00:00:00+09:00"
+    },
+    {
+      "id": "7010902021004",
+      "name": "有限会社四季の串揚げかくれん坊",
+      "category": "heavy-food",
+      "address": "東京都世田谷区松原２丁目４２番７号",
+      "lat": 35.669018,
+      "lng": 139.648758,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 7010902021004 / 該当キーワード: 串揚げ",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "串揚げ"
+      ],
+      "postal_code": "1560043",
+      "kana": "",
+      "update_date": "2020-06-23T00:00:00+09:00"
+    },
+    {
+      "id": "1011502008074",
+      "name": "有限会社串焼一番鳥",
+      "category": "heavy-food",
+      "address": "東京都荒川区町屋３丁目８番２０号",
+      "lat": 35.746426,
+      "lng": 139.782852,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 1011502008074 / 該当キーワード: 串焼",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "串焼"
+      ],
+      "postal_code": "1160001",
+      "kana": "",
+      "update_date": "2025-04-21T00:00:00+09:00"
+    },
+    {
+      "id": "3011202010460",
+      "name": "有限会社うなぎ串焼川二郎",
+      "category": "heavy-food",
+      "address": "東京都中野区中野５丁目５５番１０号",
+      "lat": 35.70866,
+      "lng": 139.666245,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 3011202010460 / 該当キーワード: 串焼",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "串焼"
+      ],
+      "postal_code": "1640001",
+      "kana": "",
+      "update_date": "2015-10-28T00:00:00+09:00"
+    },
+    {
+      "id": "1010002022866",
+      "name": "有限会社鉄板焼レストラン仁",
+      "category": "heavy-food",
+      "address": "東京都中央区日本橋人形町１丁目１番１５号",
+      "lat": 35.684948,
+      "lng": 139.781631,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 1010002022866 / 該当キーワード: 鉄板焼",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "鉄板焼"
+      ],
+      "postal_code": "1030013",
+      "kana": "",
+      "update_date": "2018-10-02T00:00:00+09:00"
+    },
+    {
+      "id": "8120005015057",
+      "name": "一般社団法人日本鉄板焼協会",
+      "category": "heavy-food",
+      "address": "東京都千代田区一ツ橋１丁目１番１号",
+      "lat": 35.690922,
+      "lng": 139.757507,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 8120005015057 / 該当キーワード: 鉄板焼",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "鉄板焼"
+      ],
+      "postal_code": "1000003",
+      "kana": "",
+      "update_date": "2024-02-16T00:00:00+09:00"
+    },
+    {
+      "id": "8010002011581",
+      "name": "有限会社炭火焼チキンチキン",
+      "category": "heavy-food",
+      "address": "東京都千代田区神田和泉町１番地２の９",
+      "lat": 35.699192,
+      "lng": 139.77597,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 8010002011581 / 該当キーワード: 炭火焼",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "炭火焼"
+      ],
+      "postal_code": "1010024",
+      "kana": "",
+      "update_date": "2025-06-17T00:00:00+09:00"
+    },
+    {
+      "id": "1010003001183",
+      "name": "合名会社人形町キリンビヤホール",
+      "category": "heavy-food",
+      "address": "東京都中央区（東京市日本橋区人形町二丁目２番地２）",
+      "lat": 35.670601,
+      "lng": 139.772003,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 1010003001183 / 該当キーワード: ビヤホール",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "ビヤホール"
+      ],
+      "postal_code": "1030000",
+      "kana": "",
+      "update_date": "2015-10-26T00:00:00+09:00"
+    },
+    {
+      "id": "1010702003067",
+      "name": "有限会社五反田ビヤホール",
+      "category": "heavy-food",
+      "address": "東京都品川区東五反田１丁目１４番１２号",
+      "lat": 35.625935,
+      "lng": 139.724854,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 1010702003067 / 該当キーワード: ビヤホール",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "ビヤホール"
+      ],
+      "postal_code": "1410022",
+      "kana": "",
+      "update_date": "2025-02-05T00:00:00+09:00"
+    },
+    {
+      "id": "3011701024795",
+      "name": "株式会社ＨＩＢＩＹＡホールディングス",
+      "category": "heavy-food",
+      "address": "東京都葛飾区細田３丁目２９番１３号メゾン・ソレイユ２０３",
+      "lat": 35.741459,
+      "lng": 139.871109,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 3011701024795 / 該当キーワード: ビヤホール",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "ビヤホール"
+      ],
+      "postal_code": "1240021",
+      "kana": "",
+      "update_date": "2025-05-02T00:00:00+09:00"
+    },
+    {
+      "id": "8010503001346",
+      "name": "合資会社佐竹ヱビスビヤホール",
+      "category": "heavy-food",
+      "address": "東京都台東区（東京市下谷区二長町１２６番地）",
+      "lat": 35.712631,
+      "lng": 139.779678,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 8010503001346 / 該当キーワード: ビヤホール",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "ビヤホール"
+      ],
+      "postal_code": "1100000",
+      "kana": "",
+      "update_date": "2015-10-28T00:00:00+09:00"
+    },
+    {
+      "id": "2011803000464",
+      "name": "合資会社青森大衆酒場",
+      "category": "heavy-food",
+      "address": "東京都足立区千住３丁目４０番地",
+      "lat": 35.751244,
+      "lng": 139.802673,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 2011803000464 / 該当キーワード: 大衆酒場, 酒場",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "大衆酒場",
+        "酒場"
+      ],
+      "postal_code": "1200034",
+      "kana": "",
+      "update_date": "2015-10-28T00:00:00+09:00"
+    },
+    {
+      "id": "1010602007044",
+      "name": "有限会社山城屋酒場",
+      "category": "heavy-food",
+      "address": "東京都江東区南砂１丁目６番８号",
+      "lat": 35.680767,
+      "lng": 139.822418,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 1010602007044 / 該当キーワード: 酒場",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "酒場"
+      ],
+      "postal_code": "1360076",
+      "kana": "",
+      "update_date": "2015-10-28T00:00:00+09:00"
+    },
+    {
+      "id": "1011502011334",
+      "name": "有限会社三岩酒場",
+      "category": "heavy-food",
+      "address": "東京都荒川区荒川４丁目１番４号",
+      "lat": 35.735809,
+      "lng": 139.781281,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 1011502011334 / 該当キーワード: 酒場",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "酒場"
+      ],
+      "postal_code": "1160002",
+      "kana": "",
+      "update_date": "2015-10-28T00:00:00+09:00"
+    },
+    {
+      "id": "1013201013685",
+      "name": "株式会社ドスコイ酒場ちゃんこ芝松",
+      "category": "heavy-food",
+      "address": "東京都目黒区緑が丘１丁目１１番１６号",
+      "lat": 35.606976,
+      "lng": 139.678604,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 1013201013685 / 該当キーワード: 酒場",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "酒場"
+      ],
+      "postal_code": "1520034",
+      "kana": "",
+      "update_date": "2015-10-28T00:00:00+09:00"
+    },
+    {
+      "id": "2010403000453",
+      "name": "合資会社大門酒場",
+      "category": "heavy-food",
+      "address": "東京都品川区大崎５丁目６番１１号",
+      "lat": 35.62228,
+      "lng": 139.724289,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 2010403000453 / 該当キーワード: 酒場",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "酒場"
+      ],
+      "postal_code": "1410032",
+      "kana": "",
+      "update_date": "2018-07-17T00:00:00+09:00"
+    },
+    {
+      "id": "2012401022215",
+      "name": "株式会社府中酒場",
+      "category": "heavy-food",
+      "address": "東京都府中市府中町２丁目２番地の２光ビル２階",
+      "lat": 35.672478,
+      "lng": 139.482162,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 2012401022215 / 該当キーワード: 酒場",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "酒場"
+      ],
+      "postal_code": "1830055",
+      "kana": "",
+      "update_date": "2015-10-30T00:00:00+09:00"
+    },
+    {
+      "id": "2012401038401",
+      "name": "株式会社日本再生酒場",
+      "category": "heavy-food",
+      "address": "東京都調布市佐須町１丁目１２番地３",
+      "lat": 35.661224,
+      "lng": 139.55127,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 2012401038401 / 該当キーワード: 酒場",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "酒場"
+      ],
+      "postal_code": "1820016",
+      "kana": "",
+      "update_date": "2022-01-24T00:00:00+09:00"
+    },
+    {
+      "id": "3010503000939",
+      "name": "合資会社猪料理山口屋酒場",
+      "category": "heavy-food",
+      "address": "東京都台東区（東京市浅草区北田原町９番地）",
+      "lat": 35.712631,
+      "lng": 139.779678,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 3010503000939 / 該当キーワード: 酒場",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "酒場"
+      ],
+      "postal_code": "1100000",
+      "kana": "",
+      "update_date": "2015-10-28T00:00:00+09:00"
+    },
+    {
+      "id": "3010503006787",
+      "name": "合同会社マルヤス酒場柏",
+      "category": "heavy-food",
+      "address": "東京都中央区日本橋横山町８番９号",
+      "lat": 35.6936,
+      "lng": 139.784317,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 3010503006787 / 該当キーワード: 酒場",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "酒場"
+      ],
+      "postal_code": "1030003",
+      "kana": "",
+      "update_date": "2026-01-15T00:00:00+09:00"
+    },
+    {
+      "id": "3011702000911",
+      "name": "有限会社伊勢元酒場",
+      "category": "heavy-food",
+      "address": "東京都江戸川区平井１丁目３番１２号",
+      "lat": 35.700817,
+      "lng": 139.849106,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 3011702000911 / 該当キーワード: 酒場",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "酒場"
+      ],
+      "postal_code": "1320035",
+      "kana": "",
+      "update_date": "2018-05-10T00:00:00+09:00"
+    },
+    {
+      "id": "4010403026595",
+      "name": "合同会社マルヤス酒場新橋",
+      "category": "heavy-food",
+      "address": "東京都港区新橋２丁目１２番８号５Ｆ",
+      "lat": 35.667259,
+      "lng": 139.754761,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 4010403026595 / 該当キーワード: 酒場",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "酒場"
+      ],
+      "postal_code": "1050004",
+      "kana": "",
+      "update_date": "2021-11-26T00:00:00+09:00"
+    },
+    {
+      "id": "4010403036198",
+      "name": "合同会社宇宙酒場",
+      "category": "heavy-food",
+      "address": "東京都港区北青山３丁目６番７号青山パラシオタワー１１階",
+      "lat": 35.665234,
+      "lng": 139.711334,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 4010403036198 / 該当キーワード: 酒場",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "酒場"
+      ],
+      "postal_code": "1070061",
+      "kana": "",
+      "update_date": "2025-10-08T00:00:00+09:00"
+    },
+    {
+      "id": "5011201015509",
+      "name": "株式会社駆け込み酒場玄",
+      "category": "heavy-food",
+      "address": "東京都新宿区歌舞伎町２丁目３２－４",
+      "lat": 35.697659,
+      "lng": 139.702637,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 5011201015509 / 該当キーワード: 酒場",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "酒場"
+      ],
+      "postal_code": "1600021",
+      "kana": "",
+      "update_date": "2016-08-04T00:00:00+09:00"
+    },
+    {
+      "id": "5011703002946",
+      "name": "合同会社マルヤス酒場西葛西",
+      "category": "heavy-food",
+      "address": "東京都江戸川区西葛西５丁目１番１号３Ｆ",
+      "lat": 35.665321,
+      "lng": 139.859055,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 5011703002946 / 該当キーワード: 酒場",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "酒場"
+      ],
+      "postal_code": "1340088",
+      "kana": "",
+      "update_date": "2021-09-28T00:00:00+09:00"
+    },
+    {
+      "id": "5012801010403",
+      "name": "株式会社遠藤酒場",
+      "category": "heavy-food",
+      "address": "東京都立川市富士見町６丁目３８番１４号",
+      "lat": 35.69236,
+      "lng": 139.387756,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 5012801010403 / 該当キーワード: 酒場",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "酒場"
+      ],
+      "postal_code": "1900013",
+      "kana": "",
+      "update_date": "2015-10-30T00:00:00+09:00"
+    },
+    {
+      "id": "5013303004744",
+      "name": "北酒場合同会社",
+      "category": "heavy-food",
+      "address": "東京都新宿区北新宿４丁目３６番４号",
+      "lat": 35.706543,
+      "lng": 139.688446,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 5013303004744 / 該当キーワード: 酒場",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "酒場"
+      ],
+      "postal_code": "1690074",
+      "kana": "",
+      "update_date": "2025-10-01T00:00:00+09:00"
+    },
+    {
+      "id": "6010602018219",
+      "name": "有限会社菊水酒場",
+      "category": "heavy-food",
+      "address": "東京都江東区東雲１丁目６番５号",
+      "lat": 35.647198,
+      "lng": 139.801056,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 6010602018219 / 該当キーワード: 酒場",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "酒場"
+      ],
+      "postal_code": "1350062",
+      "kana": "",
+      "update_date": "2015-10-28T00:00:00+09:00"
+    },
+    {
+      "id": "6011003006622",
+      "name": "合同会社酒場文化研究所",
+      "category": "heavy-food",
+      "address": "東京都渋谷区渋谷２丁目５－９パル青山２０２",
+      "lat": 35.659431,
+      "lng": 139.707977,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 6011003006622 / 該当キーワード: 酒場",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "酒場"
+      ],
+      "postal_code": "1500002",
+      "kana": "",
+      "update_date": "2021-06-01T00:00:00+09:00"
+    },
+    {
+      "id": "6011302002594",
+      "name": "有限会社神谷酒場",
+      "category": "heavy-food",
+      "address": "東京都杉並区荻窪５丁目２６番８号",
+      "lat": 35.704159,
+      "lng": 139.618881,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 6011302002594 / 該当キーワード: 酒場",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "酒場"
+      ],
+      "postal_code": "1670051",
+      "kana": "",
+      "update_date": "2015-10-28T00:00:00+09:00"
+    },
+    {
+      "id": "6011701016311",
+      "name": "株式会社北酒場",
+      "category": "heavy-food",
+      "address": "東京都葛飾区新小岩１丁目４３番８号",
+      "lat": 35.716122,
+      "lng": 139.858963,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 6011701016311 / 該当キーワード: 酒場",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "酒場"
+      ],
+      "postal_code": "1240024",
+      "kana": "",
+      "update_date": "2021-04-14T00:00:00+09:00"
+    },
+    {
+      "id": "6011702002541",
+      "name": "有限会社小野内酒場",
+      "category": "heavy-food",
+      "address": "東京都江戸川区西小岩４丁目１４番１号",
+      "lat": 35.735397,
+      "lng": 139.88147,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 6011702002541 / 該当キーワード: 酒場",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "酒場"
+      ],
+      "postal_code": "1330057",
+      "kana": "",
+      "update_date": "2015-10-28T00:00:00+09:00"
+    },
+    {
+      "id": "7010003035671",
+      "name": "合同会社マルヤス酒場神田",
+      "category": "heavy-food",
+      "address": "東京都千代田区鍛冶町２丁目９番３号",
+      "lat": 35.692924,
+      "lng": 139.771881,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 7010003035671 / 該当キーワード: 酒場",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "酒場"
+      ],
+      "postal_code": "1010044",
+      "kana": "",
+      "update_date": "2021-08-24T00:00:00+09:00"
+    },
+    {
+      "id": "7010803003860",
+      "name": "合同会社マルヤス酒場蒲田",
+      "category": "heavy-food",
+      "address": "東京都大田区蒲田５丁目３９番４号２Ｆ",
+      "lat": 35.561466,
+      "lng": 139.716736,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 7010803003860 / 該当キーワード: 酒場",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "酒場"
+      ],
+      "postal_code": "1440052",
+      "kana": "",
+      "update_date": "2022-02-08T00:00:00+09:00"
+    },
+    {
+      "id": "7011303002618",
+      "name": "合同会社丸金酒場",
+      "category": "heavy-food",
+      "address": "東京都杉並区高円寺南４丁目２６番１６号",
+      "lat": 35.704582,
+      "lng": 139.649536,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 7011303002618 / 該当キーワード: 酒場",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "酒場"
+      ],
+      "postal_code": "1660003",
+      "kana": "",
+      "update_date": "2017-01-16T00:00:00+09:00"
+    },
+    {
+      "id": "8010502013012",
+      "name": "有限会社タカラ酒場",
+      "category": "heavy-food",
+      "address": "東京都台東区日本堤１丁目２３番１０号",
+      "lat": 35.726719,
+      "lng": 139.800446,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 8010502013012 / 該当キーワード: 酒場",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "酒場"
+      ],
+      "postal_code": "1110021",
+      "kana": "",
+      "update_date": "2015-10-28T00:00:00+09:00"
+    },
+    {
+      "id": "1010602012432",
+      "name": "有限会社天ぷら石橋",
+      "category": "heavy-food",
+      "address": "東京都墨田区亀沢２丁目２１番９号",
+      "lat": 35.69865,
+      "lng": 139.801941,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 1010602012432 / 該当キーワード: 天ぷら",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "天ぷら"
+      ],
+      "postal_code": "1300014",
+      "kana": "",
+      "update_date": "2025-08-07T00:00:00+09:00"
+    },
+    {
+      "id": "2012802007582",
+      "name": "有限会社天ぷら岡本",
+      "category": "heavy-food",
+      "address": "東京都立川市曙町２丁目５番１９号ジュピタルビル２階",
+      "lat": 35.69989,
+      "lng": 139.413483,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 2012802007582 / 該当キーワード: 天ぷら",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "天ぷら"
+      ],
+      "postal_code": "1900012",
+      "kana": "",
+      "update_date": "2015-10-30T00:00:00+09:00"
+    },
+    {
+      "id": "4010403019211",
+      "name": "天ぷらしゅらいん株式会社",
+      "category": "heavy-food",
+      "address": "東京都新宿区新宿４丁目１－２２新宿コムロビル７０２号室",
+      "lat": 35.688335,
+      "lng": 139.703018,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 4010403019211 / 該当キーワード: 天ぷら",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "天ぷら"
+      ],
+      "postal_code": "1600022",
+      "kana": "",
+      "update_date": "2025-12-18T00:00:00+09:00"
+    },
+    {
+      "id": "4010503006943",
+      "name": "合同会社天ぷら福たろう",
+      "category": "heavy-food",
+      "address": "東京都台東区谷中１丁目２番１７号",
+      "lat": 35.719219,
+      "lng": 139.767319,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 4010503006943 / 該当キーワード: 天ぷら",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "天ぷら"
+      ],
+      "postal_code": "1100001",
+      "kana": "",
+      "update_date": "2023-04-07T00:00:00+09:00"
+    },
+    {
+      "id": "6010802009793",
+      "name": "有限会社天ぷら天義",
+      "category": "heavy-food",
+      "address": "東京都大田区西蒲田７丁目６７番１１号",
+      "lat": 35.561958,
+      "lng": 139.714355,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 6010802009793 / 該当キーワード: 天ぷら",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "天ぷら"
+      ],
+      "postal_code": "1440051",
+      "kana": "",
+      "update_date": "2015-10-28T00:00:00+09:00"
+    },
+    {
+      "id": "7010001238805",
+      "name": "株式会社天ぷら浅沼",
+      "category": "heavy-food",
+      "address": "東京都中央区日本橋２丁目１０番１１号Ｏｒｄｉｎ日本橋ビル６Ｆ",
+      "lat": 35.681034,
+      "lng": 139.774551,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 7010001238805 / 該当キーワード: 天ぷら",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "天ぷら"
+      ],
+      "postal_code": "1030027",
+      "kana": "",
+      "update_date": "2023-09-29T00:00:00+09:00"
+    },
+    {
+      "id": "7010501043226",
+      "name": "株式会社天ぷら宮",
+      "category": "heavy-food",
+      "address": "東京都文京区千駄木３丁目５０番１４－１００２号",
+      "lat": 35.730286,
+      "lng": 139.762772,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 7010501043226 / 該当キーワード: 天ぷら",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "天ぷら"
+      ],
+      "postal_code": "1130022",
+      "kana": "",
+      "update_date": "2026-01-21T00:00:00+09:00"
+    },
+    {
+      "id": "7011302006256",
+      "name": "有限会社天ぷら矢吹",
+      "category": "heavy-food",
+      "address": "東京都杉並区高井戸東３丁目２８番２４号",
+      "lat": 35.688286,
+      "lng": 139.617203,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 7011302006256 / 該当キーワード: 天ぷら",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "天ぷら"
+      ],
+      "postal_code": "1680072",
+      "kana": "",
+      "update_date": "2023-11-15T00:00:00+09:00"
+    },
+    {
+      "id": "9010003039191",
+      "name": "合同会社天ぷらやぐち",
+      "category": "heavy-food",
+      "address": "東京都中央区日本橋人形町２丁目９－７",
+      "lat": 35.686146,
+      "lng": 139.784058,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 9010003039191 / 該当キーワード: 天ぷら",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "天ぷら"
+      ],
+      "postal_code": "1030013",
+      "kana": "",
+      "update_date": "2022-11-29T00:00:00+09:00"
+    },
+    {
+      "id": "9010501008326",
+      "name": "株式会社天ぷら大黒家",
+      "category": "heavy-food",
+      "address": "東京都台東区柳橋１丁目２番１号",
+      "lat": 35.695477,
+      "lng": 139.787308,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 9010501008326 / 該当キーワード: 天ぷら",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "天ぷら"
+      ],
+      "postal_code": "1110052",
+      "kana": "",
+      "update_date": "2019-09-12T00:00:00+09:00"
+    },
+    {
+      "id": "2010502007465",
+      "name": "有限会社天麩羅あかし",
+      "category": "heavy-food",
+      "address": "東京都台東区雷門１丁目１６番１号",
+      "lat": 35.710865,
+      "lng": 139.792465,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 2010502007465 / 該当キーワード: 天麩羅",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "天麩羅"
+      ],
+      "postal_code": "1110034",
+      "kana": "",
+      "update_date": "2015-10-28T00:00:00+09:00"
+    },
+    {
+      "id": "4010002047423",
+      "name": "有限会社天麩羅なかがわ",
+      "category": "heavy-food",
+      "address": "東京都中央区築地２丁目１４番２号",
+      "lat": 35.667759,
+      "lng": 139.77063,
+      "phone": "",
+      "website": "",
+      "notes": "法人番号: 4010002047423 / 該当キーワード: 天麩羅",
+      "score": 50,
+      "status": "untouched",
+      "matched_keywords": [
+        "天麩羅"
+      ],
+      "postal_code": "1040045",
+      "kana": "",
+      "update_date": "2015-10-26T00:00:00+09:00"
+    }
+  ]
+}

@@ -640,8 +640,35 @@ elements.sortSelect.addEventListener("change", (e) => {
 elements.scoreMin.addEventListener("input", handleScoreChange);
 elements.scoreMax.addEventListener("input", handleScoreChange);
 
+/* ---------- Remote data loader ---------- */
+function enrichRemoteCompany(c) {
+  const matched = Array.isArray(c.matched_keywords) ? c.matched_keywords : [];
+  const baseScore = typeof c.score === "number" ? c.score : 50;
+  // 複数キーワードヒットは確度が高い (焼肉×ホルモン など)
+  const score = matched.length > 1 ? Math.min(100, baseScore + (matched.length - 1) * 12) : baseScore;
+  return { ...c, score };
+}
+
+async function loadRemoteData() {
+  try {
+    const res = await fetch("./data/companies.json", { cache: "no-store" });
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    const payload = await res.json();
+    const list = Array.isArray(payload?.companies) ? payload.companies.map(enrichRemoteCompany) : [];
+    if (!list.length) throw new Error("companies が空");
+    const generated = payload.generated_at ? `（${payload.generated_at} 取得）` : "";
+    loadCompanies(list, `gBizINFOから${list.length}件読み込みました${generated}`);
+    return true;
+  } catch (e) {
+    console.warn("[prospect-atlas] remote data load failed:", e);
+    return false;
+  }
+}
+
 /* ---------- Boot ---------- */
 buildLegend();
 elements.csvInput.value = csvTemplate;
 updateScoreFill();
-loadCompanies(sampleCompanies);
+loadRemoteData().then((ok) => {
+  if (!ok) loadCompanies(sampleCompanies, "サンプルデータを読み込みました（リアルデータ取得失敗）。");
+});
